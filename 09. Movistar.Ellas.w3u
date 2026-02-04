@@ -1,0 +1,25 @@
+{
+"name": "M ELLAS #VAMOS",
+"image": "https://i.postimg.cc/HLrDqDkd/logo1-16-171838.png",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista recopilada de Ids. bY. Lukas",
+"stations": 
+	[
+
+        {
+          "name": "M Ellas #Vamos (1080)(Elcano)",
+          "info": "[5e97]",
+          "image": "https://i.postimg.cc/HLrDqDkd/logo1-16-171838.png",
+          "url": "acestream://b2ee974d9cd40f2f251656cf5cb9a7a93ed05e97"
+        },
+        {
+          "name": "M Ellas #Vamos (1080)(Elcano)",
+          "info": "[c74c8]",
+          "image": "https://i.postimg.cc/HLrDqDkd/logo1-16-171838.png",
+          "url": "acestream://3040cfbef2d8170ff3909db6f21a6981d9ec74c8"
+        }
+
+    ]
+}

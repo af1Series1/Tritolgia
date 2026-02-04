@@ -1,0 +1,66 @@
+
+  {
+  "name": "EUROSPORT 360",
+  "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+  "url": "",
+  "image": "https://i.postimg.cc/05LC4FY1/Euro-360-new.png",
+  "telegram": "Lista_AF1CIONADOS",
+  "info": "Lista recopilada de Ids. bY. Lukas",
+  "stations": 
+	[
+        {
+          "name": "Eurosport 360 HD 1 [DE]",
+          "info": "",
+          "image": "https://i.postimg.cc/bYQGz5Xh/Euro-360.png",
+          "url": "acestream://22df9a5fae8cae52fec925c2bb44b74f96a4200c"
+        },
+        {
+          "name": "Eurosport 360 HD 2 [DE]",
+          "info": "",
+          "image": "https://i.postimg.cc/bYQGz5Xh/Euro-360.png",
+          "url": "acestream://57f95543ac41656d473b1a27123fc413388a728c"
+        },
+        {
+          "name": "Eurosport 360 HD 3 [DE]",
+          "info": "",
+          "image": "https://i.postimg.cc/bYQGz5Xh/Euro-360.png",
+          "url": "acestream://7adbca42657ace1fe228142d351d0896974bbe0c"
+        },
+        {
+          "name": "Eurosport 360 HD 4 [DE]",
+          "info": "",
+          "image": "https://i.postimg.cc/bYQGz5Xh/Euro-360.png",
+          "url": "acestream://1b6b6c0ddc0534236b3bae78f41d2bc27cd11f64"
+        },
+        {
+          "name": "Eurosport 360 HD 5 [DE]",
+          "info": "",
+          "image": "https://i.postimg.cc/bYQGz5Xh/Euro-360.png",
+          "url": "acestream://148921c4dda96df445e253d6f26c4d092bf85809"
+        },
+        {
+          "name": "Eurosport 360 HD 6 [DE]",
+          "info": "",
+          "image": "https://i.postimg.cc/bYQGz5Xh/Euro-360.png",
+          "url": "acestream://005ac522315699bd93bbf743329eb2f3c347dc3f"
+        },
+        {
+          "name": "Eurosport 360 HD 7 [DE]",
+          "info": "",
+          "image": "https://i.postimg.cc/bYQGz5Xh/Euro-360.png",
+          "url": "acestream://b18657f64507cc859cd7edef1aef90feb053e791"
+        },
+        {
+          "name": "Eurosport 360 HD 8 [DE]",
+          "info": "",
+          "image": "https://i.postimg.cc/bYQGz5Xh/Euro-360.png",
+          "url": "acestream://8f4f572005ca2557743474087aa622693ba9b5fe"
+        },
+        {
+          "name": "Eurosport 360 HD 9 [DE]",
+          "info": "",
+          "image": "https://i.postimg.cc/bYQGz5Xh/Euro-360.png",
+          "url": "acestream://7993cecc31917793e2bfa2fe98faa9fe1ab62d47"
+        }
+      ]
+    }

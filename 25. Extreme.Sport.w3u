@@ -1,0 +1,30 @@
+
+  {
+  "name": "EXTREME SPORTS",
+  "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+  "url": "",
+  "image": "https://i.postimg.cc/3NCP0Gkh/Logo-extreme-canal.png",
+  "telegram": "Lista_AF1CIONADOS",
+  "info": "Lista recopilada de Ids. bY. Lukas",
+  "stations": 
+	[
+        {
+          "name": "Extreme Sports 1",
+          "info": " ",
+          "image": "https://i.postimg.cc/RhNHN7s6/Logo-extreme-canal-2.png",
+          "url": "acestream://fc29afec151a8097ba65241acf3e0da791850e6c"
+        },
+        {
+          "name": "Extreme Sports 2",
+          "info": "",
+          "image": "https://i.postimg.cc/RhNHN7s6/Logo-extreme-canal-2.png",
+          "url": "acestream://56239e8c8257170861da94a32a86d59c716a7071"
+        },
+        {
+          "name": "Extreme Sports 3 (PL)",
+          "info": " ",
+          "image": "https://i.postimg.cc/RhNHN7s6/Logo-extreme-canal-2.png",
+          "url": "acestream://73ff07648e367efebd94636047b07625f664a082"
+        }
+      ]
+    }

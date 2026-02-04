@@ -1,0 +1,139 @@
+{
+  "name": "MOVISTAR",
+  "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+  "url": "",
+  "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+  "telegram": "Lista_AF1CIONADOS",
+  "info": "Lista recopilada de Ids. bY. Lukas",
+  "stations": 
+	[
+
+        {
+          "name": "ESTRENOS (FHD) (Shickat)",
+          "info": "1d38",
+          "image": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png",
+          "url": "acestream://b71478c824f787a6a696139db0d053de6fdd1d38"
+        },
+        {
+          "name": "SERIES (FHD) (New Era)",
+          "info": "891a",
+          "image": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png",
+          "url": "acestream://2752dee68a7faa9c847216dc22a6821661db891a"
+        },
+        {
+          "name": "DOCUMENTALES (FHD) (Shickat)",
+          "info": "29e6",
+          "image": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png",
+          "url": "acestream://59d7f6da13c21652b1240578fe57dec0cc1529e6"
+        },
+        {
+          "name": "ORIGINALES (FHD) (Shickat)",
+          "info": "1c88",
+          "image": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png",
+          "url": "acestream://60fcd59471ac4268e6cd6448f068a2b518841c88"
+        },
+        {
+          "name": "CINE ESPAÑOL (FHD) (Shickat)",
+          "info": "8bd07",
+          "image": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png",
+          "url": "acestream://168ad4a958aa6daa26adeee9700ed0312618bd07"
+        },
+        {
+          "name": "VACACIONES (FHD) (Shickat)",
+          "info": "a343",
+          "image": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png",
+          "url": "acestream://a0f71ac4897b2ccdf0114b5b3b7877902376a343"
+        },
+        {
+          "name": "WESTERN (FHD) (Shickat)",
+          "info": "6765",
+          "image": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png",
+          "url": "acestream://860dd021db341dbd02979eb8ea650d3f9d846765"
+        },
+        {
+          "name": "INDIE (FHD) (Shickat)",
+          "info": "ba5af",
+          "image": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png",
+          "url": "acestream://4f35f115971f0b156baabb8efa9926b1eb8ba5af"
+        },
+        {
+          "name": "ACCION (FHD) (Shickat)",
+          "info": "fc42",
+          "image": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png",
+          "url": "acestream://93b2f5ede5cf2fa0cdb50419258c4f651aabfc42"
+        },
+        {
+          "name": "ACCION (FHD) (New Era)",
+          "info": "59ce",
+          "image": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png",
+          "url": "acestream://102bcb79ca391e37ac1fc9ee77dc53440d0a59ce"
+        },
+        {
+          "name": "COMEDIA (FHD) (Shickat)",
+          "info": "798f",
+          "image": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png",
+          "url": "acestream://124aa6d58fd72a763ed0349c874551bd2504798f"
+        },
+        {
+          "name": "DRAMA (FHD) (Shickat)",
+          "info": "c983",
+          "image": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png",
+          "url": "acestream://aff9d7e45c4fc0f97ec8ec2b6d80cd3feb87c983"
+        },
+        {
+          "name": "HITS (FHD) (Shickat)",
+          "info": "0695",
+          "image": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png",
+          "url": "acestream://28b9b7ba12c0f5c7e097f4b07a547f6eda9a0695"
+        },
+        {
+          "name": "CLASICOS (FHD) (Shickat)",
+          "info": "5fd1",
+          "image": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png",
+          "url": "acestream://095134586cd06e1488139842f1183b50b75f5fd1"
+        },
+        {
+          "name": "CLASICOS (FHD) (New Era)",
+          "info": "0c0c",
+          "image": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png",
+          "url": "acestream://cf6ffdfa3c51268c0bd216da6b275fb866160c0c"
+        },
+        {
+          "name": "COCINA (FHD) (Shickat)",
+          "info": "fbb3",
+          "image": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png",
+          "url": "acestream://db81615f1b2eebaf584edc252ddd73883123fbb3"
+        },
+        {
+          "name": "COCINA (FHD) (New Era)",
+          "info": "849b",
+          "image": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png",
+          "url": "acestream://96f092e1fa99062f6da14cae230b877ad3ed849b"
+        },
+        {
+          "name": "MOVISTAR NATIONAL GEOGRAPHIC (FHD) (Shickat)",
+          "info": "dfff",
+          "image": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png",
+          "url": "acestream://55230a7a3cc4e8dfd3cecbfb2d68266aa4e5dfff"
+        },
+        {
+          "name": "NATIONAL GEOGRAPHIC WILD (FHD) (Shickat)",
+          "info": "6d00",
+          "image": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png",
+          "url": "acestream://51d0b5249e229a07ecc52286f56a67c3d9df6d00"
+        },
+        {
+          "name": "PESCA Y CAZA (FHD) (Shickat)",
+          "info": "e10f",
+          "image": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png",
+          "url": "acestream://6f28b1b9eb9f4047a6179b300e65b03c8316e10f"
+        },
+        {
+          "name": "ONE TORO (FHD) (Shickat)",
+          "info": "43c0",
+          "image": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png",
+          "url": "acestream://1fd3dbb7d39de875ac70059d70c8768d4a2e43c0"
+        }
+
+      ]
+    }

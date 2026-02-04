@@ -1,0 +1,31 @@
+{
+"name": "DAZN LA LIGA BAR",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "",
+"image": "https://i.postimg.cc/kGbPhRQw/dazn1bar-new.png",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista recopilada de Ids. bY. Lukas",
+"stations":  
+      [
+
+        {
+          "name": "DAZN 1 BAR (FHD)(New Era)",
+          "info": "5ae3",
+          "image": "https://i.postimg.cc/kGbPhRQw/dazn1bar-new.png",
+          "url": "acestream://688e785893b50acc1d00cb37f15bfc42e72f5ae3"
+        },
+        {
+          "name": "DAZN 1 BAR (HD)(New Era)",
+          "info": "b8f7",
+          "image": "https://i.postimg.cc/kGbPhRQw/dazn1bar-new.png",
+          "url": "acestream://97d663cba59ddd8aca032267169019b544dcb8f7"
+        },
+        {
+          "name": "DAZN 2 BAR (FHD)(New Era)",
+          "info": "b8f7",
+          "image": "https://i.postimg.cc/kGbPhRQw/dazn1bar-new.png",
+          "url": "acestream://2f9211669499f413dab1a490198afab2a9b4b57c"
+        }
+
+     ]
+}

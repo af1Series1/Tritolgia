@@ -1,0 +1,66 @@
+
+  {
+  "name": "UFC",
+  "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+  "url": "",
+  "image": "https://i.postimg.cc/Hk6VCHsX/Fight-Sports-new.png",
+  "telegram": "Lista_AF1CIONADOS",
+  "info": "Lista recopilada de Ids. bY. Lukas",
+  "stations": 
+	[
+        {
+          "name": "UFC",
+          "info": "",
+          "image": "https://i.postimg.cc/yN6cFvWX/Fight-new.png",
+          "url": "acestream://822654b2c0db24d1de149cb21fdd44a3b968fbfa"
+        },
+        {
+          "name": "UFC",
+          "info": "",
+          "image": "https://i.postimg.cc/yN6cFvWX/Fight-new.png",
+          "url": "acestream://0585e09bb8ac9720e4c11934f1b184e309291551"
+        },
+        {
+          "name": "UFC",
+          "info": "",
+          "image": "https://i.postimg.cc/yN6cFvWX/Fight-new.png",
+          "url": "acestream://5c910d614894635153a7d42de98cc2e4a958a53f"
+        },
+        {
+          "name": "UFC",
+          "info": "",
+          "image": "https://i.postimg.cc/yN6cFvWX/Fight-new.png",
+          "url": "acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc"
+        },
+        {
+          "name": "UFC",
+          "info": "",
+          "image": "https://i.postimg.cc/yN6cFvWX/Fight-new.png",
+          "url": "acestream://"
+        },
+        {
+          "name": "UFC",
+          "info": "IDIOMA ESPAÑOL",
+          "image": "https://i.postimg.cc/yN6cFvWX/Fight-new.png",
+          "url": "acestream://600222a4f98df80a2c0df2d60cb5ff3df9620710"
+        },
+        {
+          "name": "UFC",
+          "info": "IDIOMA ESPAÑOL",
+          "image": "https://i.postimg.cc/yN6cFvWX/Fight-new.png",
+          "url": "acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e"
+        },
+        {
+          "name": "UFC",
+          "info": "IDIOMA ESPAÑOL",
+          "image": "https://i.postimg.cc/yN6cFvWX/Fight-new.png",
+          "url": "acestream://162942adc047d0f78eac056effbe5bbec54a5e51"
+        },
+        {
+          "name": "UFC",
+          "info": "IDIOMA ESPAÑOL",
+          "image": "https://i.postimg.cc/yN6cFvWX/Fight-new.png",
+          "url": "acestream://e454681a152a86da504e63694f17f90d0586867d"
+        }
+      ]
+    }

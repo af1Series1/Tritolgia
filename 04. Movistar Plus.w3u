@@ -1,0 +1,67 @@
+{
+  "name": "MOVISTAR PLUS",
+  "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+  "url": "https://af1cionados.vercel.app/",
+  "image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
+  "telegram": "Lista_AF1CIONADOS",
+  "info": "Lista recopilada de Ids. bY. Lukas",
+  "stations": [
+
+        {
+          "name": "MOVISTAR PLUS (1080)(Elcano)",
+          "info": "582f",
+          "image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
+          "url": "acestream://56ac8e227d526e722624675ccdd91b0cc850582f"
+        },
+        {
+          "name": "MOVISTAR PLUS (1080)(Elcano)",
+          "info": "ab78",
+          "image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
+          "url": "acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78"
+        },
+        {
+          "name": "MOVISTAR PLUS (FHD)(Shickat)",
+          "info": "b193",
+          "image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
+          "url": "acestream://1d8791bd1972f6159813c2a21d1b649cca79b193"
+        },
+        {
+          "name": "MOVISTAR PLUS (FHD)(Shickat)",
+          "info": "ac1a",
+          "image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
+          "url": "acestream://a340c77b773a4a78a6c9aa25245a02698e05ac1a"
+        },
+        {
+          "name": "MOVISTAR PLUS (FHD)(New Era)",
+          "info": "0f70",
+          "image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
+          "url": "acestream://8c67cdb5ba81976662c3a67984a9545d9cfb0f70"
+        },
+        {
+          "name": "MOVISTAR PLUS (FHD)(New Era)",
+          "info": "933b",
+          "image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
+          "url": "acestream://b6ffbbc72a5b6b579faf79ebac229af7a25b933b"
+        },
+        {
+          "name": "MOVISTAR PLUS VI (FHD)(New Era)",
+          "info": "f74a",
+          "image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
+          "url": "acestream://5e24a1b9187fccb91553f7c7da4b36341386f74a"
+        },
+        {
+          "name": "MOVISTAR PLUS VI (FHD)(New Era)",
+          "info": "b51a",
+          "image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
+          "url": "acestream://5d9a26e0a5f3e5f2ae027bd05635ab9a4fd4b51a"
+        },
+        {
+          "name": "MOVISTAR PLUS 2 (FHD)(New Era)",
+          "info": "e09c",
+          "image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
+          "url": "acestream://fbc39d8a9e5d7c9ac6a1438d440104620f54e09c"
+        }
+
+      ]
+    }
+

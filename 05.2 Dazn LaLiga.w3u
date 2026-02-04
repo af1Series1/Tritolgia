@@ -1,0 +1,73 @@
+{
+"name": "DAZN LA LIGA",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "",
+"image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista recopilada de Ids. bY. Lukas",
+"stations":  
+      [
+
+        {
+          "name": "DAZN LaLiga (1080)(Elcano)",
+          "info": "[d889]",
+          "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+          "url": "acestream://cc108ae39f92c48f6c946763047bd1c9b7b7d889"
+        },
+        {
+          "name": "DAZN LaLiga (720)(Elcano)",
+          "info": "[dbb9]",
+          "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+          "url": "acestream://eb4975702ceadca7ed74f8707e17a9f55569dbb9"
+        },
+        {
+          "name": "DAZN LaLiga (FHD)(New Era VI)",
+          "info": "6892",
+          "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+          "url": "acestream://f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892"
+        },
+        {
+          "name": "DAZN LaLiga (FHD)(New Era VI)",
+          "info": "14ec",
+          "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+          "url": "acestream://520950d296c952e1864a08e15af9f89f1ab514ec"
+        },
+        {
+          "name": "DAZN LaLiga (FHD)(Shickat)",
+          "info": "f4b1",
+          "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+          "url": "acestream://0e50439e68aa2435b38f0563bb2f2e98f32ff4b1"
+        },
+        {
+          "name": "DAZN LaLiga (FHD)(Shickat)",
+          "info": "2884",
+          "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+          "url": "acestream://1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884"
+        },
+        {
+          "name": "DAZN LaLiga 2 (1080)(Elcano)",
+          "info": "[cba8]",
+          "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+          "url": "acestream://a231b2fa1f7754433efeb8bb8d69d7b9096dcba8"
+        },
+        {
+          "name": "DAZN LaLiga 2 (720)(Elcano)",
+          "info": "[8d36]",
+          "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+          "url": "acestream://c976c7b37964322752db562b4ad65515509c8d36"
+        },
+        {
+          "name": "DAZN LaLiga 2 (FHD)(Shickat)",
+          "info": "59c3",
+          "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+          "url": "acestream://5091ea94b75ba4b50b078b4102a3d0e158ef59c3"
+        },
+        {
+          "name": "DAZN LaLiga 2 (FHD)(New Era)",
+          "info": "fee3",
+          "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+          "url": "acestream://635b61c1f240449163260cd914d10d886a54fee3"
+        }
+
+      ]
+    }

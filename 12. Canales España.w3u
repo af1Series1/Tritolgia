@@ -1,0 +1,163 @@
+{
+  "name": "CANALES ESPAÑA",
+  "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+  "url": "",
+  "image": "https://i.postimg.cc/NfQ1LMZP/logo-spain.png",
+  "telegram": "Lista_AF1CIONADOS",
+  "info": "Lista recopilada de Ids. bY. Lukas",
+  "stations": 
+    [
+
+       {
+          "name": "LA 1 FHD (New Era)",
+          "info": "40ba",
+          "image": "https://i.ibb.co/swhGnw4/La1.jpg",
+          "url": "acestream://7597d4feb3195079ffa606cf23a183d626ee40ba"
+        },
+        {
+          "name": "LA 1 FHD (New Era)",
+          "info": "740c",
+          "image": "https://i.ibb.co/swhGnw4/La1.jpg",
+          "url": "acestream://dad5e0e0825cb3e410008f1c4252387b868e740c"
+        },
+        {
+          "name": "LA 2 FHD (New Era)",
+          "info": "c2ed",
+          "image": "https://i.postimg.cc/13XJ1k3Y/Logo-La2.png",
+          "url": "acestream://9934906503661142f97a044ae1509a294057c2ed"
+        },
+        {
+          "name": "ANTERNA 3 FHD (New Era)",
+          "info": "8496",
+          "image": "",
+          "url": "acestream://390b5b0fc49a811c5c5ebd6d195b08a48b1e8496"
+        },
+        {
+          "name": "CUATRO TV",
+          "info": "42c4",
+          "image": "https://i.ibb.co/FJch0Y9/Cuatro.jpg",
+          "url": "acestream://e8eec35f4662be1af96963245bfa88fb7d0242c4"
+        },
+        {
+          "name": "CUATRO TV FHD (New Era)",
+          "info": "9a91",
+          "image": "https://i.ibb.co/FJch0Y9/Cuatro.jpg",
+          "url": "acestream://18f63b299de66029e17dc35e12f6c244e1979a91"
+        },
+        {
+          "name": "TELECINCO",
+          "info": "76f5",
+          "image": "https://www.movistarplus.es/recorte/m-NEO/canal/T5.png",
+          "url": "acestream://3d376333ee90d6db3d413fc5764ef635882076f5"
+        },
+        {
+          "name": "TELECINCO FHD (New Era)",
+          "info": "f75b",
+          "image": "https://www.movistarplus.es/recorte/m-NEO/canal/T5.png",
+          "url": "acestream://6d2af61410d7fb6ed46fc7fe0c199951389bf75b"
+        },
+        {
+          "name": "TELECINCO FHD (New Era)",
+          "info": "f7bf",
+          "image": "https://www.movistarplus.es/recorte/m-NEO/canal/T5.png",
+          "url": "acestream://5133d1e8f45095f0b7dabbd78db0ce19a496f7bf"
+        },
+        {
+          "name": "LA SEXTA FHD (New Era)",
+          "info": "7e31",
+          "image": "",
+          "url": "acestream://1c6486082949172d1ffd318db8fb965dd5af7e31"
+        },
+        {
+          "name": "TDP TeleDeporte (1080p)(Elcano)",
+          "info": "ee05",
+          "image": "https://i.ibb.co/thh1tKH/TDP.jpg",
+          "url": "acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05"
+        },
+        {
+          "name": "TDP TeleDeporte (1080p)(Elcano)",
+          "info": "74f6",
+          "image": "https://i.ibb.co/thh1tKH/TDP.jpg",
+          "url": "acestream://3b50a1dca0977e3761d016edd79314ab797f74f6"
+        },
+        {
+          "name": "TDP TeleDeporte (720p)(Elcano)",
+          "info": "e5ae",
+          "image": "https://i.ibb.co/thh1tKH/TDP.jpg",
+          "url": "acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae"
+        },
+        {
+          "name": "TDP Teledeporte FHD (New Era)",
+          "info": "0230",
+          "image": "https://i.ibb.co/thh1tKH/TDP.jpg",
+          "url": "acestream://138b30c93e8a780ac490a4f6d2181c41f3670230"
+        },
+        {
+          "name": "TDP Teledeporte FHD (New Era)",
+          "info": "d9ef",
+          "image": "https://i.ibb.co/thh1tKH/TDP.jpg",
+          "url": "acestream://bdc32e0f99653f96e0e1a3b98c88764b631ed9ef"
+        },
+        {
+          "name": "GOL PLAY [1080]",
+          "info": "eca2",
+          "image": "https://i.postimg.cc/cCThLjpn/gol-play.png",
+          "url": "acestream://d4627f7b6b237a8556819445b3283d866caceca2"
+        },
+        {
+          "name": "GOL PLAY FHD (New Era)",
+          "info": "4a3a",
+          "image": "https://i.postimg.cc/cCThLjpn/gol-play.png",
+          "url": "acestream://b2d560741c006fc5e4a42412bb52dbd25a6a4a3a"
+        },
+        {
+          "name": "GOL PLAY FHD (New Era)",
+          "info": "6175",
+          "image": "https://i.postimg.cc/cCThLjpn/gol-play.png",
+          "url": "acestream://6ca8e5cb0d48f99f3e4bbd0d34eb4d26c13a6175"
+        },
+        {
+          "name": "GOL PLAY FHD (New Era)",
+          "info": "0612",
+          "image": "https://i.postimg.cc/cCThLjpn/gol-play.png",
+          "url": "acestream://9fb99c40a2c45d5c5342b30626eb56140f980612"
+        },
+        {
+          "name": "BE MAD [1080]",
+          "info": "770c",
+          "image": "https://i.ibb.co/2qxWsCP/BeMad.jpg",
+          "url": "acestream://5c267a00f264736c1d47c1cc3e754447ca8f770c"
+        },
+        {
+          "name": "BARCA TV [720]",
+          "info": "3ba7",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Football_club_barcelona_television.png",
+          "url": "acestream://e3362507e7c732b9461bd7bdc74bd054c49b3ba7"
+        },
+        {
+          "name": "ESPORT 3 CAT [1080]",
+          "info": "b132   ",
+          "image": "https://i.postimg.cc/0yL26PyR/Esport3.jpg",
+          "url": "acestream://4c0e50c9cc4971479feb12cc46ab1f5dbce8b132"
+        },
+        {
+          "name": "REAL MADRID TV [1080]",
+          "info": "6dcd",
+          "image": "https://i.postimg.cc/3NwHYDx6/logo-real-madrid.png",
+          "url": "acestream://0827cf7d290967985892965c6e61244a479d6dcd"
+        },
+        {
+          "name": "REAL MADRID TV [1080]",
+          "info": "0be8",
+          "image": "https://i.postimg.cc/3NwHYDx6/logo-real-madrid.png",
+          "url": "acestream://d644f9276c8c204882ccc4e80cc26f7986830be8"
+        },
+        {
+          "name": "REAL MADRID TV [1080]",
+          "info": "cd11",
+          "image": "https://i.postimg.cc/JhcwXQyv/logo-real-madrid-2.png",
+          "url": "acestream://0ec3f3786318acd8dca2588f74c3759cda76cd11"
+        }
+
+      ]
+    }

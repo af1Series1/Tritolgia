@@ -1,0 +1,39 @@
+{
+"name": "LA LIGA EA SPORT",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "",
+"image": "https://i.postimg.cc/NM8kNBZq/La-Liga-New.png",
+"imageScale": "",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista recopilada de Ids. bY. Lukas",
+"groups":
+      [
+
+        {
+        "name": "MOVISTAR LaLiga",
+        "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
+        "url": "",
+	    "info": "By Af1cionados"
+        },
+        {
+        "name": "DAZN LaLiga",
+        "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+        "url": "",
+	    "info": "By Af1cionados"
+        },
+        {
+        "name": "DAZN LaLiga BAR",
+        "image": "https://i.postimg.cc/kGbPhRQw/dazn1bar-new.png",
+        "url": "",
+	    "info": "By Af1cionados"
+        },
+        {
+        "name": "DAZN LaLiga TV BAR",
+        "image": "https://i.postimg.cc/ncTvcSw3/liga-bar.png",
+        "url": "",
+	    "info": "By Af1cionados"
+        }
+
+	]
+}
+

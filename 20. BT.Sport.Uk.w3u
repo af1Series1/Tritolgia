@@ -1,0 +1,54 @@
+
+  {
+  "name": "BT SPORTS [UK]",
+  "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+  "url": "",
+  "image": "https://i.postimg.cc/d1wL0wvF/Logo-Bt-Sport-new.png",
+  "telegram": "Lista_AF1CIONADOS",
+  "info": "Lista recopilada de Ids. bY. Lukas",
+  "stations": 
+	[
+        {
+          "name": "BT Sport1 (UK) [1080]",
+          "info": "4d9c",
+          "image": "https://i.postimg.cc/BZpK313X/BT-Sport-1-new.png",
+          "url": "acestream://ab2b69970c0629bf0fa30dd61b0072adb4ac4d9c"
+        },
+        {
+          "name": "BT Sport1 (UK) [1080]",
+          "info": "3c5b",
+          "image": "https://i.postimg.cc/BZpK313X/BT-Sport-1-new.png",
+          "url": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b"
+        },
+        {
+          "name": "BT Sport2 (UK [1080])",
+          "info": "a801",
+          "image": "https://i.postimg.cc/sD1vR6KN/BT-Sport-2-new.png",
+          "url": "acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801"
+        },
+        {
+          "name": "BT Sport3 (UK) [1080]",
+          "info": "2033",
+          "image": "https://i.postimg.cc/br5YJPLF/BT-Sport-3-new.png",
+          "url": "acestream://5f966c123759de46dff29c379266b7a403452033"
+        },
+        {
+          "name": "BT Sport4 (UK) [1080]",
+          "info": "9bce",
+          "image": "https://i.postimg.cc/YCY2pJFb/BT-Sport-4-new.png",
+          "url": "acestream://fc5089d8e1519872fdf951779ccbca913acc9bce"
+        },
+        {
+          "name": "BT Sport5 (UK) [1080]",
+          "info": "7801",
+          "image": "https://i.postimg.cc/VvJ12T19/BT-Sport-5-new.png",
+          "url": "acestream://c300ecb07d854c1730b04ea022c3fb0a184d7801"
+        },
+        {
+          "name": "BT Sport6 (UK) [1080]",
+          "info": "e511",
+          "image": "https://i.postimg.cc/6prwsCsP/BT-Sport-6-new.png",
+          "url": "acestream://e1d74c79ab7b3991b3ed40b199abd0e8eb0ae511"
+        }
+      ]
+    }

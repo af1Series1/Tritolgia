@@ -1,0 +1,90 @@
+
+  {
+  "name": "ESPN SPORT",
+  "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+  "url": "",
+  "image": "https://i.postimg.cc/3JB8nbyw/logo-espn.png",
+  "telegram": "Lista_AF1CIONADOS",
+  "info": "Lista recopilada de Ids. bY. Lukas",
+  "stations": 
+	[
+        {
+          "name": "ESPN Argentina [1080]",
+          "info": "be00",
+          "image": "https://i.postimg.cc/nz7j2PpQ/espn-logo.png",
+          "url": "acestream://2492f8aa7cd7c4800e7b22c4ecba05e34c18be00"
+        },
+        {
+          "name": "ESPN 3 Argentina [1080]",
+          "info": "7e1e",
+          "image": "https://i.postimg.cc/prL9vXKK/espn-3-logo.png",
+          "url": "acestream://b9fdac2069dae003e7a2ea94bc3a069b28fb7e1e"
+        },
+        {
+          "name": "ESPN Uruguay [1080]",
+          "info": "be00",
+          "image": "https://i.postimg.cc/nz7j2PpQ/espn-logo.png",
+          "url": "acestream://2492f8aa7cd7c4800e7b22c4ecba05e34c18be00"
+        },
+        {
+          "name": "ESPN 2 Uruguay [1080]",
+          "info": "3b9d",
+          "image": "https://i.postimg.cc/VsJ1xCCD/espn-2-logo.png",
+          "url": "acestream://e40b29774fdfd953751a71f5695f647726623b9d"
+        },
+        {
+          "name": "ESPN 3 Uruguay [1080]",
+          "info": "a714",
+          "image": "https://i.postimg.cc/prL9vXKK/espn-3-logo.png",
+          "url": "acestream://b97f5975dbd067655432512d4693b417bc85a714"
+        },
+        {
+          "name": "ESPN Extra Uruguay [1080]",
+          "info": "1612",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png",
+          "url": "acestream://9c3feb380cd9bcf9dcb7a9454ca8eb7962201612"
+        },
+        {
+          "name": "ESPN DEPORTES",
+          "info": "af63",
+          "image": "https://i.postimg.cc/nz7j2PpQ/espn-logo.png",
+          "url": "acestream://3ce776c6eac31081239903cd45c152b27f95af63"
+        },
+        {
+          "name": "ESPN HD [US]",
+          "info": "f442",
+          "image": "https://i.postimg.cc/nz7j2PpQ/espn-logo.png",
+          "url": "acestream://4b4907de51ec11087d4bed5876f2a0c68264f442"
+        },
+        {
+          "name": "ESPN 2 [BE]",
+          "info": "7e63",
+          "image": "https://i.postimg.cc/nz7j2PpQ/espn-logo.png",
+          "url": "acestream://3e0ba6867173f345d482d80c771f1a5dc3b37e63"
+        },
+        {
+          "name": "ESPN Colombia",
+          "info": "be00",
+          "image": "https://i.postimg.cc/nz7j2PpQ/espn-logo.png",
+          "url": "acestream://2492f8aa7cd7c4800e7b22c4ecba05e34c18be00"
+        },
+        {
+          "name": "ESPN 2 Colombia",
+          "info": "3b9d",
+          "image": "https://i.postimg.cc/nz7j2PpQ/espn-logo.png",
+          "url": "acestream://e40b29774fdfd953751a71f5695f647726623b9d"
+        },
+        {
+          "name": "ESPN 3 Colombia",
+          "info": "a714",
+          "image": "https://i.postimg.cc/nz7j2PpQ/espn-logo.png",
+          "url": "acestream://b97f5975dbd067655432512d4693b417bc85a714"
+        },
+        {
+          "name": "ESPN Extra Colombia",
+          "info": "1612",
+          "image": "https://i.postimg.cc/nz7j2PpQ/espn-logo.png",
+          "url": "acestream://9c3feb380cd9bcf9dcb7a9454ca8eb7962201612"
+        }
+      ]
+    }

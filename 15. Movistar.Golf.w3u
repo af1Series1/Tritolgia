@@ -1,0 +1,36 @@
+{
+  "name": "MOVISTAR GOLF",
+  "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+  "url": "",
+  "image": "https://i.postimg.cc/yx9c39GB/logo1-17-10417-removebg-preview.png",
+  "telegram": "Lista_AF1CIONADOS",
+  "info": "Lista recopilada de Ids. bY. Lukas",
+  "stations": 
+	[
+
+        {
+          "name": "M GOLF 1 [1080]",
+          "info": "9afb",
+          "image": "https://i.postimg.cc/yx9c39GB/logo1-17-10417-removebg-preview.png",
+          "url": "acestream://872608e734992db636eb79426802cd08f4029afb"
+        },
+        {
+          "name": "M GOLF 1 FHD (New Era)",
+          "info": "1031",
+          "image": "https://i.postimg.cc/yx9c39GB/logo1-17-10417-removebg-preview.png",
+          "url": "acestream://8546cff89e4ee8bf3ad31cf6457c3bc2c4341031"
+        },
+        {
+          "name": "M GOLF 1 [1080] (Shickat)",
+          "info": "9b48",
+          "image": "https://i.postimg.cc/yx9c39GB/logo1-17-10417-removebg-preview.png",
+          "url": "acestream://0f5550c9842eac2c295bece78968f77d84159b48"
+        },
+        {
+          "name": "M GOLF 2 FHD (New Era)",
+          "info": "e7d7",
+          "image": "https://i.postimg.cc/yx9c39GB/logo1-17-10417-removebg-preview.png",
+          "url": "acestream://96e82321c731e41768a806992ee4d3b9b7a0e7d7"
+        }
+    ]
+}

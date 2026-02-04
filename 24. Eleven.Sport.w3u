@@ -1,0 +1,36 @@
+
+  {
+  "name": "ELEVEN SPORT",
+  "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+  "url": "",
+  "image": "https://i.postimg.cc/C18XcBQC/logo-Eleven-Sport.png",
+  "telegram": "Lista_AF1CIONADOS",
+  "info": "Lista recopilada de Ids. bY. Lukas",
+  "stations": 
+	[
+        {
+          "name": "Eleven Sport 1 (BE)",
+          "info": "acestream:d51b   [1080p]",
+          "image": "https://i.postimg.cc/JnytndG2/eleven-sport-1.png",
+          "url": "acestream://36cad67fed5a739757a9db844a551aa845a8d51b"
+        },
+        {
+          "name": "Eleven Sport 2 (PL)",
+          "info": "acestream:51f9   [1080p]",
+          "image": "https://i.postimg.cc/QtP9JZ2D/eleven-sport-2.png",
+          "url": "acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9"
+        },
+        {
+          "name": "Eleven Sport 3 (PL)",
+          "info": "acestream:f212   [1080p]",
+          "image": "https://i.postimg.cc/pXjcwDJQ/eleven-sport-3.png",
+          "url": "acestream://b146ee4b6e16c9df58e27bd02ffd6cea840ff212"
+        },
+        {
+          "name": "Eleven Sport 4 (PL)",
+          "info": "acestream:8e09   [1080p]",
+          "image": "https://i.postimg.cc/52MKb6sh/eleven-sport-4.png",
+          "url": "acestream://458a0ddd7d193f6d2750cd14d03a47f47a808e09"
+        }
+      ]
+    }

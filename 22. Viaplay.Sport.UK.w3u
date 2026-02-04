@@ -1,0 +1,24 @@
+
+  {
+  "name": "VIAPLAY SPORTS [UK]",
+  "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+  "url": "",
+  "image": "https://i.postimg.cc/jdPL0ZGP/logo-viaplay.png",
+  "telegram": "Lista_AF1CIONADOS",
+  "info": "Lista recopilada de Ids. bY. Lukas",
+  "stations": 
+	[
+        {
+          "name": "ViaPlay Sports 1",
+          "info": "acestream:3565   [1080p]",
+          "image": "https://i.postimg.cc/zDjFKyBS/premier-sport-1.png",
+          "url": "acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565"
+        },
+        {
+          "name": "ViaPlay Sports 2",
+          "info": "acestream:9537   [1080p]",
+          "image": "https://i.postimg.cc/nLr4Jxt8/premier-sport-2.png",
+          "url": "acestream://4903ca695edb64bc72ae29eb85a5333ba0139537"
+        }
+      ]
+    }

@@ -1,0 +1,42 @@
+
+  {
+  "name": "RED BULL TV",
+  "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+  "url": "",
+  "image": "https://i.postimg.cc/8cmv0KdL/Redbull-Tv-new.png",
+  "telegram": "Lista_AF1CIONADOS",
+  "info": "Lista recopilada de Ids. bY. Lukas",
+  "stations": 
+	[
+        {
+          "name": "Red Bull",
+          "info": "",
+          "image": "https://i.postimg.cc/fThn7HgB/Redbull.png",
+          "url": "acestream://62daab1c54565d0c5ba4e3c660f3a4a5c93adc8a"
+        },
+        {
+          "name": "Red Bull TV",
+          "info": "",
+          "image": "https://i.postimg.cc/fThn7HgB/Redbull.png",
+          "url": "acestream://f1e1e9cce7297a749a5bb2e75c1520f9ce73a83b"
+        },
+        {
+          "name": "Red Bull TV HD",
+          "info": "",
+          "image": "https://i.postimg.cc/fThn7HgB/Redbull.png",
+          "url": "acestream://647d19df70ee35100d0e95bc62ddebeebec1fabb"
+        },
+        {
+          "name": "Red Bull TV UHD",
+          "info": "",
+          "image": "https://i.postimg.cc/fThn7HgB/Redbull.png",
+          "url": "acestream://fefd91766cef2af2bf4ded328633fb01051d6df9"
+        },
+        {
+          "name": "RED BULL TV (2+)",
+          "info": "",
+          "image": "https://i.postimg.cc/fThn7HgB/Redbull.png",
+          "url": "acestream://a0270364634d9c49279ba61ae3d8467809fb7095"
+        }
+      ]
+    }

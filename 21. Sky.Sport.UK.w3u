@@ -1,0 +1,47 @@
+
+  {
+  "name": "SKY SPORTS [UK]",
+  "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+  "url": "",
+  "image": "https://i.postimg.cc/Hs1Jjw2H/Logo-Sky-Sport.png",
+  "telegram": "Lista_AF1CIONADOS",
+  "info": "Lista recopilada de Ids. bY. Lukas",
+  "stations": 
+	[
+        {
+          "name": "Sky Sport F1 [1080]",
+          "info": "b79c",
+          "image": "https://i.postimg.cc/Hx1945X3/Sky-Sport-F1.png",
+          "url": "acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c"
+        },
+        {
+          "name": "Sky Sport F1 [1080]",
+          "info": "7262",
+          "image": "https://i.postimg.cc/Hx1945X3/Sky-Sport-F1.png",
+          "url": "acestream://55a762c1e48db88542771a476c65ffc309bd7262"
+        },
+        {
+          "name": "Sky Sport F1",
+          "info": "5e02",
+          "image": "https://i.postimg.cc/Hx1945X3/Sky-Sport-F1.png",
+          "url": "acestream://3251c61c831ddeae6b7feeae704a3f6c5c975e02"
+        },
+        {
+          "name": "Sky Sport F1",
+          "info": "6ab3",
+          "image": "https://i.postimg.cc/Hx1945X3/Sky-Sport-F1.png",
+          "url": "acestream://28710e9057927317c869b11d669c28a4d77a6ab3"
+        },
+        {
+          "name": "Sky Sport Football (UK)",
+          "image": "https://cdn.livesoccertv.com/images/channels/thumbnails/sky-sports-football.png",
+          "url": "acestream://8dbe2d515e9131fa311353537736f8c94be9b26d"
+        },
+        {
+          "name": "Sky Sport Main Event (UK)",
+          "info": "acestream:df5e   [1080p]",
+          "image": "https://cdn.livesoccertv.com/images/channels/thumbnails/sky-sports-football.png",
+          "url": "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e"
+        }
+      ]
+    }

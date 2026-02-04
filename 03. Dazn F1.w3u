@@ -1,0 +1,97 @@
+{
+  "name": "Dazn F1",
+  "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+  "url": "",
+  "image": "https://i.postimg.cc/CKmmK298/Logo-Dazn-F1.png",
+  "telegram": "Lista_AF1CIONADOS",
+  "info": "Lista recopilada de Ids. bY. Lukas",
+  "stations": 
+	[
+
+        {
+          "name": "DAZN F1 (1080)(Elcano)",
+          "info": "[cc73]",
+          "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png",
+          "url": "acestream://895d08633bb22c2573281655cf3ca44de476cc73"
+        },
+        {
+          "name": "DAZN F1 (1080)(Elcano)",
+          "info": "[eaa4]",
+          "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png",
+          "url": "acestream://d719181097d256073844390b3e094fbcb1bceaa4"
+        },
+        {
+          "name": "DAZN F1 (1080)(Elcano)",
+          "info": "[be55]",
+          "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png",
+          "url": "acestream://fd53cfa7055fe458d4f5c0ff59a06cd43723be55"
+        },
+        {
+          "name": "DAZN F1 (1080)(Elcano)",
+          "info": "f6d1",
+          "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png",
+          "url": "acestream://b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1"
+        },
+        {
+          "name": "DAZN F1 (1080)(Elcano)",
+          "info": "[9a69]",
+          "image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
+          "url": "acestream://bcf9dc38f92e90a71b87bd54b3bac91b76d09a69"
+        },
+        {
+          "name": "DAZN F1 (720)(Elcano)",
+          "info": "[1727]",
+          "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png",
+          "url": "acestream://ed6188dcbb491efeb2092c1a6199226c27f61727"
+        },
+        {
+          "name": "DAZN F1 (FHD)(NewEra)",
+          "info": "bb29",
+          "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png",
+          "url": "acestream://6422e8bc34282871634c81947be093c04ad1bb29"
+        },
+        {
+          "name": "DAZN F1 (FHD)(NewEra)",
+          "info": "a553",
+          "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png",
+          "url": "acestream://c9c18ae7a9dafba1caae5beb22060f9c92bba553"
+        },
+        {
+          "name": "DAZN F1 (FHD)(NewEra)",
+          "info": "7494",
+          "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png",
+          "url": "acestream://515efd8115482bda8d92aa6df9a882a5e5797494"
+        },
+        {
+          "name": "DAZN F1 (FHD)(NewEra)",
+          "info": "b8cc",
+          "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png",
+          "url": "acestream://82b4f249788f93b8f9ce968803662d7cd4f1b8cc"
+        },
+        {
+          "name": "DAZN F1 (FHD)(NewEra)",
+          "info": "7711",
+          "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png",
+          "url": "acestream://d5cf2dfa4fb4165ce58bf9db815088c28fec7711"
+        },
+        {
+          "name": "DAZN F1 (FHD)(NewEra VI)",
+          "info": "57c9",
+          "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png",
+          "url": "acestream://8c1155cdfae76eb582290c04904c98da066657c9"
+        },
+        {
+          "name": "DAZN F1 (FHD)(NewEra VI)",
+          "info": "0cd0",
+          "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png",
+          "url": "acestream://ba6e1bdc8e03da60ff572557645eb04370af0cd0"
+        },
+        {
+          "name": "DAZN F1 (720)(Shickat)",
+          "info": "8fd6",
+          "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png",
+          "url": "acestream://f3b85a5fdd61f23b2c008e0d207786f438088fd6"
+        }
+
+      ]
+    }

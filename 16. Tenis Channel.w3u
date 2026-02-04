@@ -1,0 +1,19 @@
+{
+  "name": "TENIS CHANNEL",
+  "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+  "url": "",
+  "image": "https://i.postimg.cc/k4sFB1S7/tennis-channel-new.png",
+  "telegram": "Lista_AF1CIONADOS",
+  "info": "Lista recopilada de Ids. bY. Lukas",
+  "stations": 
+	[
+
+        {
+          "name": "Tennis Channel",
+          "info": "[23ac]",
+          "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg",
+          "url": "acestream://039fae21c9e7e5214d3d898cba80863e37e623ac"
+        }
+
+    ]
+}

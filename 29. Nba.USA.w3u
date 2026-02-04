@@ -1,0 +1,20 @@
+
+  {
+  "name": "NBA TV (US)",
+  "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+  "url": "",
+  "image": "https://i.postimg.cc/SKjPkzTN/Logo-NBA.png",
+  "telegram": "Lista_AF1CIONADOS",
+  "info": "Lista recopilada de Ids. bY. Lukas",
+  "stations": 
+	[
+
+        {
+          "name": "Nba Tv (US)",
+          "info": "ed95",
+          "image": "https://i.postimg.cc/SKjPkzTN/Logo-NBA.png",
+          "url": "acestream://e72d03fb9694164317260f684470be9ab781ed95"
+        }
+
+      ]
+    }
