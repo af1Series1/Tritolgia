@@ -9,10 +9,10 @@
     [
 
        {
-          "name": "LA 1 FHD (New Era)",
-          "info": "40ba",
+          "name": "LA 1 FHD (720)(Elcano)",
+          "info": "[de8a8]",
           "image": "https://i.ibb.co/swhGnw4/La1.jpg",
-          "url": "acestream://7597d4feb3195079ffa606cf23a183d626ee40ba"
+          "url": "acestream://02622fa2fab63847d88dc14fd9fa5c2fc35de8a8"
         },
         {
           "name": "LA 1 FHD (New Era)",
@@ -21,10 +21,16 @@
           "url": "acestream://dad5e0e0825cb3e410008f1c4252387b868e740c"
         },
         {
-          "name": "LA 2 FHD (New Era)",
-          "info": "c2ed",
+          "name": "LA 2 FHD (1080)(Elcano)",
+          "info": "[94146]",
           "image": "https://i.postimg.cc/13XJ1k3Y/Logo-La2.png",
-          "url": "acestream://9934906503661142f97a044ae1509a294057c2ed"
+          "url": "acestream://9b461120d04b7651990c3b54a0821c60c3b94146"
+        },
+        {
+          "name": "LA 2 FHD (720)(Elcano)",
+          "info": "[a894f]",
+          "image": "https://i.postimg.cc/13XJ1k3Y/Logo-La2.png",
+          "url": "acestream://001a809c577ef916a57340151c6112ebcb7a894f"
         },
         {
           "name": "ANTERNA 3 FHD (New Era)",
@@ -161,3 +167,4 @@
 
       ]
     }
+
