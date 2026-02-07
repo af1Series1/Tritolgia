@@ -21,18 +21,6 @@
           "url": "acestream://d23497596720b47b096ec0f850d6d26a19d1a336"
         },
         {
-          "name": "MOVISTAR PLUS (FHD)(Shickat)",
-          "info": "b193",
-          "image": "https://i.postimg.cc/YqJpfzfk/logo1-16-175117.png",
-          "url": "acestream://1d8791bd1972f6159813c2a21d1b649cca79b193"
-        },
-        {
-          "name": "MOVISTAR PLUS (FHD)(Shickat)",
-          "info": "ac1a",
-          "image": "https://i.postimg.cc/YqJpfzfk/logo1-16-175117.png",
-          "url": "acestream://a340c77b773a4a78a6c9aa25245a02698e05ac1a"
-        },
-        {
           "name": "MOVISTAR PLUS (FHD)(New Era)",
           "info": "0f70",
           "image": "https://i.postimg.cc/YqJpfzfk/logo1-16-175117.png",
@@ -65,5 +53,6 @@
 
       ]
     }
+
 
 
