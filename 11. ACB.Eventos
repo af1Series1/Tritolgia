@@ -10,21 +10,21 @@
 
         {
           "name": "ACB EVENTOS 1 (Elcano)",
-          "info": "0d75",
+          "info": "[9d5d2]",
           "image": "https://i.postimg.cc/B613K9W3/logo1-16-171737.png",
-          "url": "acestream://53962d7fb865aff73b34a3afb2905cd492f60d75"
+          "url": "acestream://8faa686a99697b99261346e479ead172b1d9d5d2"
         },
         {
           "name": "ACB EVENTOS 2 (Elcano)",
-          "info": "51cd",
+          "info": "[58e0c]",
           "image": "https://i.postimg.cc/B613K9W3/logo1-16-171737.png",
-          "url": "acestream://22b702984a0db43fd371c30e2df150b2336551cd"
+          "url": "acestream://d7e6b6bb1666740a21099fe6ceb0178a14f58e0c"
         },
         {
           "name": "ACB EVENTOS 3 (Elcano)",
-          "info": "00d9",
+          "info": "[2900c]",
           "image": "https://i.postimg.cc/B613K9W3/logo1-16-171737.png",
-          "url": "acestream://02ec118ee4586d96df9115ffc486be9a499d00d9"
+          "url": "acestream://119087e842ea8857124b9405b10bb6cfffd2900c"
         }
 
     ]
