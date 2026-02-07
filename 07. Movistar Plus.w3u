@@ -8,11 +8,17 @@
   "stations": 
     [
 
-        {
+       {
           "name": "MOVISTAR PLUS (1080)(Elcano)",
           "info": "[15bb]",
           "image": "https://i.postimg.cc/YqJpfzfk/logo1-16-175117.png",
           "url": "acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb"
+        },
+        {
+          "name": "MOVISTAR PLUS (720)(Elcano)",
+          "info": "[1a336]",
+          "image": "https://i.postimg.cc/YqJpfzfk/logo1-16-175117.png",
+          "url": "acestream://d23497596720b47b096ec0f850d6d26a19d1a336"
         },
         {
           "name": "MOVISTAR PLUS (FHD)(Shickat)",
@@ -59,4 +65,5 @@
 
       ]
     }
+
 
