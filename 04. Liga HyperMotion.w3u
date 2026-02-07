@@ -21,12 +21,6 @@
           "url": "acestream://1f75d92098580443857caa95a719103cb83781b0"
         },
         {
-          "name": "LaLiga HyperMotion (FHD)(Shickat)",
-          "info": "fd1f",
-          "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
-          "url": "acestream://762b4a6ed2e70441b0374a64f25d8d6571b9fd1f"
-        },
-        {
           "name": "LaLiga HyperMotion 2 (1080)(Elcano)",
           "info": "[71f8]",
           "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
@@ -41,4 +35,5 @@
 
       ]
 }
+
 
