@@ -39,18 +39,6 @@
           "url": "acestream://afbf2a479c5a5072698139f0f556ef3e77a99bd0"
         },
         {
-          "name": "M. Liga de Campeones 1 (FHD)(Shickat)",
-          "info": "9fda",
-          "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
-          "url": "acestream://6a6bcf5aa7c9481a74222b89244697b4078d9fda"
-        },
-        {
-          "name": "M. Liga de Campeones 1 (FHD)(Shickat)",
-          "info": "64a2",
-          "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
-          "url": "acestream://e84ee527e76e12507449b6c92bbeb6b8f01664a2"
-        },
-        {
           "name": "M. Liga de Campeones 2 (1080)(Elcano)",
           "info": "[7f632]",
           "image": "https://i.postimg.cc/WbdGh9zM/Liga-de-Campeones-2-por-Movistar-Plus-2022-logo.png",
@@ -155,4 +143,5 @@
 
       ]
     }
+
 
