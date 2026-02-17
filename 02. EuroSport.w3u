@@ -16,34 +16,28 @@
           "url": "acestream://48a589dbeab3544662fafd79888aada7d834cfe9"
         },
         {
-          "name": "EuroSport (FHD) (New Era)",
-          "info": "f909",
+          "name": "EuroSport (FHD)",
+          "info": "[d92ea]",
           "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png",
-          "url": "acestream://bae98f69fbf867550b4f73b4eb176dae84d7f909"
-        },
-        {
-          "name": "EuroSport (FHD) (New Era)",
-          "info": "705d",
-          "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png",
-          "url": "acestream://714e14e6d6e27660fd25a75b57b0ac5580fe705d"
+          "url": "acestream://0db68ab752b50e6bb257eef22d102c1d29cd92ea"
         },
         {
           "name": "EuroSport 2 (Elcano)",
+          "info": "[5cfba]",
+          "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png",
+          "url": "acestream://24f940fef7e270b6b3ae5d9dc713a80c8345cfba"
+        },
+        {
+          "name": "EuroSport 2 (Elcano)",
+          "info": "[8a53f]",
+          "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png",
+          "url": "acestream://5c910d614894635153a7d42de98cc2e4a958a53f"
+        },
+        {
+          "name": "EuroSport 2 (FHD) (New Era)",
           "info": "[7a193]",
           "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png",
           "url": "acestream://f5908690485ae2facecf3074446ba4315f07a193"
-        },
-        {
-          "name": "EuroSport 2 (FHD) (New Era)",
-          "info": "1ecc",
-          "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png",
-          "url": "acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc"
-        },
-        {
-          "name": "EuroSport 2 (FHD) (New Era)",
-          "info": "7031",
-          "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png",
-          "url": "acestream://2773b39926d15dd3d9495d94c4050604792d7031"
         }
 
 ]
