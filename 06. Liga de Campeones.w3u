@@ -21,16 +21,16 @@
           "url": "acestream://63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439"
         },
         {
-          "name": "M. Liga de Campeones 1 (FHD)(NewEra)",
-          "info": "a2cc",
+          "name": "M. Liga de Campeones 1 (FHD)",
+          "info": "[b406e]",
           "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
-          "url": "acestream://c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc"
+          "url": "acestream://9db029dff6a9c637d1f670e78dbc1a479b9b406e"
         },
         {
-          "name": "M. Liga de Campeones 1 (FHD)(NewEra)",
-          "info": "4c6a",
+          "name": "M. Liga de Campeones 1 (FHD)",
+          "info": "[41bc9]",
           "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
-          "url": "acestream://778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a"
+          "url": "acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9"
         },
         {
           "name": "M. Liga de Campeones 1 (FHD)(SAT)(NewEra)",
@@ -143,5 +143,6 @@
 
       ]
     }
+
 
 
