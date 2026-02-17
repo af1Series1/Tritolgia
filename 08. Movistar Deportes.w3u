@@ -10,27 +10,21 @@
 
         {
           "name": "M Deportes (1080)(Elcano)",
-          "info": "[45776d]",
+          "info": "[184a4]",
           "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png",
-          "url": "acestream://c6a824a81b36f6c3529826477caf2ad94b45776d"
+          "url": "acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4"
         },
         {
           "name": "M Deportes (720)(Elcano)",
-          "info": "[edc77]",
+          "info": "[b93aa]",
           "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png",
-          "url": "acestream://866a8af8faacf8fc9eb997ab5a68b4dfee4edc77"
+          "url": "acestream://2f3cfd199a49819cbd129689a840dc3d23ab93aa"
         },
         {
           "name": "M Deportes FHD (New Era)",
-          "info": "071a",
+          "info": "[28281]",
           "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png",
-          "url": "acestream://ef9dcc4eaac36a0f608b52a31f8ab237859e071a"
-        },
-        {
-          "name": "M Deportes FHD (New Era)",
-          "info": "c7e5",
-          "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png",
-          "url": "acestream://f828a32d8ea03a3cabd3ce3ebecb249ec111c7e5"
+          "url": "acestream://6e031aed136bf97d8667fcd5fc49c73256928281"
         },
         {
           "name": "M Deportes 2 (1080)(Elcano)",
@@ -40,21 +34,15 @@
         },
         {
           "name": "M Deportes 2 (720)(Elcano)",
+          "info": "[26b25]",
+          "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://bfa01c11c5c6b7a616a516de4f2c769a89d26b25"
+        },
+        {
+          "name": "M Deportes 2 FHD (New Era)",
           "info": "[5da90]",
           "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png",
           "url": "acestream://6b15368775693c33c49fab02e7900c1976a5da90"
-        },
-        {
-          "name": "M Deportes 2 FHD (New Era)",
-          "info": "25a3",
-          "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png",
-          "url": "acestream://6e212a916c83638268047dd2757c95b14f7d25a3"
-        },
-        {
-          "name": "M Deportes 2 FHD (New Era)",
-          "info": "298c",
-          "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png",
-          "url": "acestream://edd06f11e1cef292a1d795e15207ef2f580e298c"
         },
         {
           "name": "M Deportes 3 (1080)(Elcano)",
@@ -113,5 +101,6 @@
 
       ]
     }
+
 
 
