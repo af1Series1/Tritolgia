@@ -15,6 +15,12 @@
           "url": "acestream://dddff67edfa7061f643ec5ae0be110169850363d"
         },
         {
+          "name": "DAZN 1 (1080)(ElCano)",
+          "info": "[b8e62]",
+          "image": "https://i.postimg.cc/g0kVtxxx/logo1-17-10546-removebg-preview.png",
+          "url": "acestream://9afc89481b721ce6c326c85e47148676077b8e62"
+        },
+        {
           "name": "DAZN 1 (720)(ElCano)",
           "info": "[7884]",
           "image": "https://i.postimg.cc/g0kVtxxx/logo1-17-10546-removebg-preview.png",
@@ -107,5 +113,6 @@
 
       ]
     }
+
 
 
