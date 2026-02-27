@@ -33,7 +33,7 @@
 
     {
       "name": "DAZN MotoGP",
-      "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png",
+      "image": "",
       "url": "https://raw.githubusercontent.com/af1Series1/Tritolgia/refs/heads/main/03.1%20Dazn%20MotoGp",
       "imageScale": "",
       "info": ""
@@ -249,6 +249,7 @@
 
   ]
 }
+
 
 
 
