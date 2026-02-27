@@ -1,1 +1,30 @@
+{
+  "name": "Dazn MotoGP",
+  "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+  "url": "",
+  "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+  "telegram": "Lista_AF1CIONADOS",
+  "info": "Lista recopilada de Ids. bY. Lukas",
+  "stations": 
+	[
 
+        {
+          "name": "DAZN MotoGP (1080)(Elcano)",
+          "info": "[558c]",
+          "image": "https://i.postimg.cc/QM58fr9j/motogp.png",
+          "url": "acestream://e18b79bce27f6ee8eef9a1fc811bb5f80e4b558c"
+        },
+        {
+          "name": "DAZN MotoGP (1080)(Elcano)",
+          "info": "[abac]",
+          "image": "https://i.postimg.cc/QM58fr9j/motogp.png",
+          "url": "acestream://5548659c188e1d4d3b6e756e6c56485eb242abac"
+        },
+        {
+          "name": "DAZN MotoGP (1080)(Elcano)",
+          "info": "[e1a5]",
+          "image": "https://i.postimg.cc/QM58fr9j/motogp.png",
+          "url": "acestream://20d4b3586bb822c3618cf8fb665a304869c5e1a5"
+        }
+  ]
+}
