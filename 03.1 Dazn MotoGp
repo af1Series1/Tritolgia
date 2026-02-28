@@ -2,7 +2,7 @@
   "name": "Dazn MotoGP",
   "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
   "url": "",
-  "image": "https://i.postimg.cc/Df4PTF0P/Canal-Dazn-Moto-GP.jpg",
+  "image": "https://i.postimg.cc/ZKTPyNjD/logo2-28-91831.png",
   "telegram": "Lista_AF1CIONADOS",
   "info": "Lista recopilada de Ids. bY. Lukas",
   "stations": 
@@ -10,20 +10,20 @@
 
         {
           "name": "DAZN MotoGP (1080)(Elcano)",
-          "info": "[558c]",
-          "image": "https://i.postimg.cc/Df4PTF0P/Canal-Dazn-Moto-GP.jpg",
+          "info": "[b558c]",
+          "image": "https://i.postimg.cc/ZKTPyNjD/logo2-28-91831.png",
           "url": "acestream://e18b79bce27f6ee8eef9a1fc811bb5f80e4b558c"
         },
         {
           "name": "DAZN MotoGP (1080)(Elcano)",
-          "info": "[abac]",
-          "image": "https://i.postimg.cc/Df4PTF0P/Canal-Dazn-Moto-GP.jpg",
+          "info": "[2abac]",
+          "image": "https://i.postimg.cc/ZKTPyNjD/logo2-28-91831.png",
           "url": "acestream://5548659c188e1d4d3b6e756e6c56485eb242abac"
         },
         {
           "name": "DAZN MotoGP (1080)(Elcano)",
-          "info": "[e1a5]",
-          "image": "https://i.postimg.cc/Df4PTF0P/Canal-Dazn-Moto-GP.jpg",
+          "info": "[5e1a5]",
+          "image": "https://i.postimg.cc/ZKTPyNjD/logo2-28-91831.png",
           "url": "acestream://20d4b3586bb822c3618cf8fb665a304869c5e1a5"
         }
   ]
