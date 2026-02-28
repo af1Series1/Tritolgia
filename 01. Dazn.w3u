@@ -9,6 +9,12 @@
 	[
 
         {
+          "name": "DAZN 1 (720)(ElCano)",
+          "info": "[7884]",
+          "image": "https://i.postimg.cc/g0kVtxxx/logo1-17-10546-removebg-preview.png",
+          "url": "acestream://a116ce3ff95c41c60e987e2b1aa247007f707884"
+        },
+        {
           "name": "DAZN 1 (1080)(ElCano)",
           "info": "[0363d]",
           "image": "https://i.postimg.cc/g0kVtxxx/logo1-17-10546-removebg-preview.png",
@@ -21,16 +27,10 @@
           "url": "acestream://9afc89481b721ce6c326c85e47148676077b8e62"
         },
         {
-          "name": "DAZN 1 (720)(ElCano)",
-          "info": "[7884]",
-          "image": "https://i.postimg.cc/g0kVtxxx/logo1-17-10546-removebg-preview.png",
-          "url": "acestream://a116ce3ff95c41c60e987e2b1aa247007f707884"
-        },
-        {
           "name": "DAZN 1 (FHD)(NewEra)",
-          "info": "9a0e",
+          "info": "[9e784]",
           "image": "https://i.postimg.cc/g0kVtxxx/logo1-17-10546-removebg-preview.png",
-          "url": "acestream://6538b79ce0da657d8455d1da6a5f342398899a0e"
+          "url": "acestream://7ba1f321f4d0791b7ebd42f41a07c1cd1479e784"
         },
         {
           "name": "DAZN 1 (FHD)(NewEra)",
@@ -113,6 +113,7 @@
 
       ]
     }
+
 
 
 
