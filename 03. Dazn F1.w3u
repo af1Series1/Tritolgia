@@ -10,9 +10,9 @@
 
         {
           "name": "DAZN F1 (1080)(Elcano)",
-          "info": "[cc73]",
+          "info": "[09a69]",
           "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png",
-          "url": "acestream://895d08633bb22c2573281655cf3ca44de476cc73"
+          "url": "acestream://bcf9dc38f92e90a71b87bd54b3bac91b76d09a69"
         },
         {
           "name": "DAZN F1 (1080)(Elcano)",
@@ -89,4 +89,5 @@
 
       ]
     }
+
 
