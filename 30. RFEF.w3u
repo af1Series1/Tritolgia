@@ -1,0 +1,25 @@
+{
+  "name": "1 RFEF",
+  "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+  "url": "",
+  "image": "",
+  "telegram": "Lista_AF1CIONADOS",
+  "info": "Lista recopilada de Ids. bY. Lukas",
+  "stations": 
+	[
+
+        {
+          "name": "1 RFEF (1080)(*)",
+          "info": "[75cfc]",
+          "image": "",
+          "url": "acestream://7b742628b9f7e82902bdbc1ff92eba1988875cfc"
+        },
+        {
+          "name": "1 RFEF (1080)(**)",
+          "info": "[8c351]",
+          "image": "",
+          "url": "acestream://854ff9c607101791346111cd2366a392c3b8c351"
+        }
+        
+]
+}
