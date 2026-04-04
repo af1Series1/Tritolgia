@@ -94,63 +94,57 @@
         },
         {
           "name": "M. Liga de Campeones 3 (720)(*)",
-          "info": "[]",
+          "info": "[03e4e]",
           "image": "https://i.postimg.cc/WbdGh9zM/Liga-de-Campeones-2-por-Movistar-Plus-2022-logo.png",
-          "url": ""
+          "url": "acestream://5b7f54b12e0f96ceba1299f44eac4b0f97403e4e"
         },
         {
           "name": "M. Liga de Campeones 3 (720)(**)",
-          "info": "[]",
+          "info": "[2d0f9]",
           "image": "https://i.postimg.cc/WbdGh9zM/Liga-de-Campeones-2-por-Movistar-Plus-2022-logo.png",
-          "url": ""
+          "url": "acestream://cfc371890bfb502737a26de5215e50929c52d0f9"
         },
         {
           "name": "M. Liga de Campeones 4 (1080)(**)",
-          "info": "[]",
+          "info": "[1a74c]",
           "image": "https://i.postimg.cc/mrqY3JD3/Liga-de-Campeones-5-por-Movistar-Plus-2022-logo.png",
-          "url": ""
+          "url": "acestream://e9f4493d2d851f4636720f639113e05b4a21a74c"
         },
         {
           "name": "M. Liga de Campeones 4 (1080)(**)",
-          "info": "[]",
+          "info": "[87547]",
           "image": "https://i.postimg.cc/mrqY3JD3/Liga-de-Campeones-5-por-Movistar-Plus-2022-logo.png",
-          "url": ""
+          "url": "acestream://64f01629d4a19e70efd9e6778c397282ba087547"
         },
         {
           "name": "M. Liga de Campeones 4 (720)(**)",
-          "info": "[]",
+          "info": "[911f2]",
+          "image": "https://i.postimg.cc/mrqY3JD3/Liga-de-Campeones-5-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://5ba9368d80d2f87ac1c6d71df4e7e6e26e6911f2"
+        },
+        {
+          "name": "M. Liga de Campeones 5 (1080)(*)",
+          "info": "[NO ACTIVADO]",
           "image": "https://i.postimg.cc/mrqY3JD3/Liga-de-Campeones-5-por-Movistar-Plus-2022-logo.png",
           "url": ""
         },
         {
-          "name": "M. Liga de Campeones 5 (FHD)(NewEra)",
-          "info": "c2c5",
+          "name": "M. Liga de Campeones 6 (1080)(*)",
+          "info": "[NO ACTIVADO]",
           "image": "https://i.postimg.cc/mrqY3JD3/Liga-de-Campeones-5-por-Movistar-Plus-2022-logo.png",
-          "url": "acestream://cb6410a6355a645cfc6f6f5a7c7d71298fcbc2c5"
+          "url": ""
         },
         {
-          "name": "M. Liga de Campeones 6 (720)(Elcano)",
-          "info": "[2f25]",
-          "image": "https://i.postimg.cc/CLNbrz5x/Liga-de-Campeones-6-por-Movistar-Plus-2022-logo.png",
-          "url": "acestream://bf10192dc72a98ee835a1b7ccac8b27737d02f25"
+          "name": "M. Liga de Campeones 7 (1080)(*)",
+          "info": "[NO ACTIVADO]",
+          "image": "https://i.postimg.cc/mrqY3JD3/Liga-de-Campeones-5-por-Movistar-Plus-2022-logo.png",
+          "url": ""
         },
         {
-          "name": "M. Liga de Campeones 6 (FHD)(NewEra)",
-          "info": "6444",
-          "image": "https://i.postimg.cc/CLNbrz5x/Liga-de-Campeones-6-por-Movistar-Plus-2022-logo.png",
-          "url": "acestream://976983697790ab8a07b764b08843529d38bc6444"
-        },
-        {
-          "name": "M. Liga de Campeones 7 (FHD)(NewEra)",
-          "info": "b842",
-          "image": "https://i.postimg.cc/0yXDxFpg/Liga-de-Campeones-7-por-Movistar-Plus-2022-logo.png",
-          "url": "acestream://83c02982581a536d1321e38a77dc0c520b1cb842"
-        },
-        {
-          "name": "M. Liga de Campeones 8 (FHD)(NewEra)",
-          "info": "56c9",
-          "image": "https://i.postimg.cc/zGjZ74WJ/Liga-de-Campeones-8-por-Movistar-Plus-2022-logo.png",
-          "url": "acestream://97f8a84212fe6b3d2ab15aadc83c7b5e6af656c9"
+          "name": "M. Liga de Campeones 8 (1080)(*)",
+          "info": "[NO ACTIVADO]",
+          "image": "https://i.postimg.cc/mrqY3JD3/Liga-de-Campeones-5-por-Movistar-Plus-2022-logo.png",
+          "url": ""
         }
 
       ]
