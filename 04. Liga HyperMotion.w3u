@@ -9,16 +9,28 @@
       [
 
         {
-          "name": "LaLiga HyperMotion (1080)(Elcano)",
+          "name": "LaLiga HyperMotion (1080)(*)",
           "info": "[d73f]",
           "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
           "url": "acestream://4636ed75106cb00e9c70cc2029edf0a4df7ad73f"
         },
         {
-          "name": "LaLiga HyperMotion (720)(Elcano)",
+          "name": "LaLiga HyperMotion (1080)(**)",
+          "info": "[f4be0]",
+          "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
+          "url": "acestream://87bb542f974b6b9e89d0f2e20ed6dc93426f4be0"
+        },
+        {
+          "name": "LaLiga HyperMotion (720)(*)",
           "info": "[81b0]",
           "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
           "url": "acestream://1f75d92098580443857caa95a719103cb83781b0"
+        },
+        {
+          "name": "LaLiga HyperMotion (720)(**)",
+          "info": "[3c8cd]",
+          "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
+          "url": "acestream://a4f072c9b614323ac1258a175f868a909ea3c8cd"
         },
         {
           "name": "LaLiga HyperMotion 2 (1080)(Elcano)",
