@@ -9,7 +9,13 @@
 	[
 
         {
-          "name": "M Deportes (1080)(Elcano)",
+          "name": "M Deportes (1080)(*)",
+          "info": "[5776d]",
+          "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://c6a824a81b36f6c3529826477caf2ad94b45776d"
+        },
+        {
+          "name": "M Deportes (1080)(**)",
           "info": "[184a4]",
           "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png",
           "url": "acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4"
