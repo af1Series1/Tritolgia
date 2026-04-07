@@ -75,58 +75,28 @@
           "url": "acestream://1c6486082949172d1ffd318db8fb965dd5af7e31"
         },
         {
-          "name": "TDP TeleDeporte (1080p)(Elcano)",
-          "info": "ee05",
+          "name": "TDP TeleDeporte (1080p)(*)",
+          "info": "[6e18a]",
+          "image": "https://i.ibb.co/thh1tKH/TDP.jpg",
+          "url": "acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a"
+        },
+        {
+          "name": "TDP TeleDeporte (1080p)(**)",
+          "info": "[2ee05]",
           "image": "https://i.ibb.co/thh1tKH/TDP.jpg",
           "url": "acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05"
         },
         {
-          "name": "TDP TeleDeporte (1080p)(Elcano)",
-          "info": "74f6",
+          "name": "TDP TeleDeporte (1080p)(**)",
+          "info": "[f74f6]",
           "image": "https://i.ibb.co/thh1tKH/TDP.jpg",
           "url": "acestream://3b50a1dca0977e3761d016edd79314ab797f74f6"
         },
         {
-          "name": "TDP TeleDeporte (720p)(Elcano)",
-          "info": "e5ae",
+          "name": "TDP TeleDeporte (720p)(*)",
+          "info": "[2e5ae]",
           "image": "https://i.ibb.co/thh1tKH/TDP.jpg",
           "url": "acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae"
-        },
-        {
-          "name": "TDP Teledeporte FHD (New Era)",
-          "info": "0230",
-          "image": "https://i.ibb.co/thh1tKH/TDP.jpg",
-          "url": "acestream://138b30c93e8a780ac490a4f6d2181c41f3670230"
-        },
-        {
-          "name": "TDP Teledeporte FHD (New Era)",
-          "info": "d9ef",
-          "image": "https://i.ibb.co/thh1tKH/TDP.jpg",
-          "url": "acestream://bdc32e0f99653f96e0e1a3b98c88764b631ed9ef"
-        },
-        {
-          "name": "GOL PLAY [1080]",
-          "info": "eca2",
-          "image": "https://i.postimg.cc/cCThLjpn/gol-play.png",
-          "url": "acestream://d4627f7b6b237a8556819445b3283d866caceca2"
-        },
-        {
-          "name": "GOL PLAY FHD (New Era)",
-          "info": "4a3a",
-          "image": "https://i.postimg.cc/cCThLjpn/gol-play.png",
-          "url": "acestream://b2d560741c006fc5e4a42412bb52dbd25a6a4a3a"
-        },
-        {
-          "name": "GOL PLAY FHD (New Era)",
-          "info": "6175",
-          "image": "https://i.postimg.cc/cCThLjpn/gol-play.png",
-          "url": "acestream://6ca8e5cb0d48f99f3e4bbd0d34eb4d26c13a6175"
-        },
-        {
-          "name": "GOL PLAY FHD (New Era)",
-          "info": "0612",
-          "image": "https://i.postimg.cc/cCThLjpn/gol-play.png",
-          "url": "acestream://9fb99c40a2c45d5c5342b30626eb56140f980612"
         },
         {
           "name": "BE MAD [1080]",
