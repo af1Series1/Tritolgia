@@ -7,67 +7,41 @@
 "info": "Lista recopilada de Ids. bY. Lukas",
 "stations": 
 	[
-
         {
-          "name": "M #Vamos (1080)(*)",
+          "name": "M+ Vamos 1080p *",
           "info": "[767fc]",
           "image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
           "url": "acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc"
         },
         {
-          "name": "M #Vamos (1080)(**)",
-          "info": "[da9cf]",
+          "name": "M+ Vamos 1080p **",
+          "info": "[dad16]",
           "image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
-          "url": "acestream://476b6f6583517bd75c15c4663bf45fab7c8da9cf"
+          "url": "acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16"
         },
         {
-          "name": "M #Vamos (720)(*)",
-          "info": "[edc77]",
-          "image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
-          "url": "acestream://866a8af8faacf8fc9eb997ab5a68b4dfee4edc77"
-        },
-        {
-          "name": "M #Vamos (720)(**)",
-          "info": "[eb785]",
-          "image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
-          "url": "acestream://0e5d8c9724fa9163f49096b70484e315251eb785"
-        },
-        {
-          "name": "M #Vamos 2 (1080)(*)",
+          "name": "M+ VAMOS 2 1080p *",
           "info": "[07884]",
           "image": "https://i.postimg.cc/wBRc6GSG/vamos.png", 
           "url": "acestream://5e310dbffed8c941d20ad819cb8ef43c34b07884"
         },
         {
-          "name": "M #Vamos 2 (720)(*)",
-          "info": "[0d7ca]",
+          "name": "M+ VAMOS 3 720p **",
+          "info": "[1f53a]",
           "image": "https://i.postimg.cc/wBRc6GSG/vamos.png", 
-          "url": "acestream://f51674b1dd1ab5a668fa97a0f13a490632f0d7ca"
+          "url": "acestream://837883625d40e1eb5566eefaf74811046491f53a"
         },
         {
-          "name": "M #Vamos 3 (1080)(*)",
+          "name": "M+ VAMOS 3 1080p *",
           "info": "[acf2c]",
           "image": "https://i.postimg.cc/wBRc6GSG/vamos.png", 
           "url": "acestream://b46a524780cf0ac5e533491fe79389d6198acf2c"
         },
         {
-          "name": "M #Vamos 3 (1080)(*)",
+          "name": "M+ VAMOS 3 1080p *",
           "info": "[f9e96]",
           "image": "https://i.postimg.cc/wBRc6GSG/vamos.png", 
           "url": "acestream://a9299052e9a16e5e2924e1fdd00b877c374f9e96"
-        },
-        {
-          "name": "M #Vamos 3 (1080)(**)",
-          "info": "[74455]",
-          "image": "https://i.postimg.cc/wBRc6GSG/vamos.png", 
-          "url": "acestream://b7b1c1eeb4be09c63fbc2f319c9760851c274455"
-        },
-        {
-          "name": "M #Vamos 3 (720)(*)",
-          "info": "[1f53a]",
-          "image": "https://i.postimg.cc/wBRc6GSG/vamos.png", 
-          "url": "acestream://837883625d40e1eb5566eefaf74811046491f53a"
         }
-
 ]
 }
