@@ -7,13 +7,17 @@
   "info": "Lista recopilada de Ids. bY. Lukas",
   "stations": 
 	[
-
         {
-          "name": "Tennis Channel",
-          "info": "[23ac]",
+          "name": "Tennis Channel 1080p *",
+          "info": "[c8582]",
           "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg",
-          "url": "acestream://039fae21c9e7e5214d3d898cba80863e37e623ac"
+          "url": "acestream://a4cbadd19442b800727be713270fa9c917cc8582"
+        },
+        {
+          "name": "Tennis Channel 1080p **",
+          "info": "[164eb]",
+          "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg",
+          "url": "acestream://43c549e5781f5a923b76f8f29cde122b5be164eb"
         }
-
     ]
 }
