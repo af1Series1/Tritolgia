@@ -7,7 +7,6 @@
   "info": "Lista recopilada de Ids. bY. Lukas",
   "stations": 
 	[
-
        {
           "name": "M. Liga de Campeones 1 (1080)(*)",
           "info": "[86920]",
@@ -22,9 +21,15 @@
         },
         {
           "name": "M. Liga de Campeones 1 (1080)(**)",
-          "info": "[0415f]",
+          "info": "[dede8]",
           "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
-          "url": "acestream://2b51710cee513e8939785fa3e7980f32d4e0415f"
+          "url": "acestream://2c7043173b83cd5c55a34dc066b63e3997bdede8"
+        },
+        {
+          "name": "M. Liga de Campeones 1 (1080)(**)",
+          "info": "[536fe]",
+          "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://91af434b0bb521189286f8cbbab1aed39d7536fe"
         },
         {
           "name": "M. Liga de Campeones 1 (720)(*)",
@@ -33,28 +38,28 @@
           "url": "acestream://63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439"
         },
         {
-          "name": "M. Liga de Campeones 1 (720)(**)",
-          "info": "[812db]",
+          "name": "M. Liga de Campeones 2 (720)(**)",
+          "info": "[54d5e]",
           "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
-          "url": "acestream://43249349740032bee068b5bbff7b078f642812db"
+          "url": "acestream://38f7b2044e549df2039ff26cefa6f9a60c854d5e"
         },
         {
-          "name": "M. Liga de Campeones 3 (1080)(*)",
-          "info": "[f85c9]",
+          "name": "M. Liga de Campeones 2 (1080)(**)",
+          "info": "[029c5]",
+          "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://74ab4e4ec7e2da001f473ca40893b7307b8029c5"
+        },
+        {
+          "name": "M. Liga de Campeones 3 (720)(**)",
+          "info": "[2d0f9]",
           "image": "https://i.postimg.cc/mrqY3JD3/Liga-de-Campeones-5-por-Movistar-Plus-2022-logo.png",
-          "url": "acestream://320bee0fbdf2a168d47810236985a7c40b4f85c9"
+          "url": "acestream://cfc371890bfb502737a26de5215e50929c52d0f9"
         },
         {
           "name": "M. Liga de Campeones 3 (1080)(**)",
           "info": "[22bc7]",
           "image": "https://i.postimg.cc/WbdGh9zM/Liga-de-Campeones-2-por-Movistar-Plus-2022-logo.png",
           "url": "acestream://4416843c96b7f7a1bc55c476091a60fff0922bc7"
-        },
-        {
-          "name": "M. Liga de Campeones 3 (720)(**)",
-          "info": "[2d0f9]",
-          "image": "https://i.postimg.cc/WbdGh9zM/Liga-de-Campeones-2-por-Movistar-Plus-2022-logo.png",
-          "url": "acestream://cfc371890bfb502737a26de5215e50929c52d0f9"
         }
       ]
     }
