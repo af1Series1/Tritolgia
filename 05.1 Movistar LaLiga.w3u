@@ -7,17 +7,28 @@
 "info": "Lista recopilada de Ids. bY. Lukas",
 "stations":  
       [
+M+ LaLiga 1080p **
+acestream://a64e02a6d914f098cbe1b724ff4f7aef83419a4a
+
+M+ LaLiga 1080p **
+acestream://56ef80b811b65df74edae1f2a23805c45600caad
+
+M+ LaLiga 1080p **
+acestream://3ce95bc9d6fc63676d828bb2cfc7a1f1854fd259
+
+M+ LaLiga 1080p **
+acestream://d3b11d6c18ad43df5cd42c1dafb4dd12d8f829e8
+        {
+          "name": "MOVISTAR LaLiga (1080)(*)",
+          "info": "[608b6]",
+          "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
+          "url": "acestream://e3816fbc661fbc8b2b656aee9483d0a55a1608b6"
+        },
         {
           "name": "MOVISTAR LaLiga (1080)(*)",
           "info": "[d0357]",
           "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
           "url": "acestream://0febfb5cac3384f487d55c559bbfc877db2d0357"
-        },
-        {
-          "name": "MOVISTAR LaLiga (1080)(**)",
-          "info": "[e9f74]",
-          "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
-          "url": "acestream://4b528d10eaad747ddf52251206177573ee3e9f74"
         },
         {
           "name": "MOVISTAR LaLiga (1080)(**)",
