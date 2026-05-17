@@ -7,24 +7,23 @@
   "info": "Lista recopilada de Ids. bY. Lukas",
   "stations": 
 	[
-
         {
-          "name": "M GOLF 1 [1080]",
-          "info": "9afb",
+          "name": "M+ Golf 1080p *",
+          "info": "[eddd6]",
           "image": "https://i.postimg.cc/yx9c39GB/logo1-17-10417-removebg-preview.png",
-          "url": "acestream://872608e734992db636eb79426802cd08f4029afb"
+          "url": "acestream://f60535a458b3c114283e2f433379144345beddd6"
         },
         {
-          "name": "M GOLF 1 FHD (New Era)",
-          "info": "1031",
+          "name": "M+ Golf 1080p *",
+          "info": "[eddd6]",
           "image": "https://i.postimg.cc/yx9c39GB/logo1-17-10417-removebg-preview.png",
-          "url": "acestream://8546cff89e4ee8bf3ad31cf6457c3bc2c4341031"
+          "url": "acestream://9bb2a7dc6c6a296609df8cc50e742a78194f7530"
         },
         {
-          "name": "M GOLF 2 FHD (New Era)",
-          "info": "e7d7",
+          "name": "M+ Golf 1080p **",
+          "info": "[166eb]",
           "image": "https://i.postimg.cc/yx9c39GB/logo1-17-10417-removebg-preview.png",
-          "url": "acestream://96e82321c731e41768a806992ee4d3b9b7a0e7d7"
+          "url": "acestream://8121478d3d3e563ad6b98018bc1c0aeb2f6166eb"
         }
     ]
 }
