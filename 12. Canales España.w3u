@@ -61,29 +61,31 @@
           "image": "",
           "url": "acestream://1c6486082949172d1ffd318db8fb965dd5af7e31"
         },
+Teledeporte 720p **
+acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
+
+Teledeporte 1080p *
+acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
+
+Teledeporte 1080p **
+acestream://3b50a1dca0977e3761d016edd79314ab797f74f6
         {
-          "name": "TDP TeleDeporte (1080p)(*)",
+          "name": "Teledeporte 720p **",
+          "info": "[2e5ae]",
+          "image": "https://i.ibb.co/thh1tKH/TDP.jpg",
+          "url": "acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae"
+        },
+        {
+          "name": "Teledeporte 1080p *",
           "info": "[6e18a]",
           "image": "https://i.ibb.co/thh1tKH/TDP.jpg",
           "url": "acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a"
         },
         {
-          "name": "TDP TeleDeporte (1080p)(**)",
-          "info": "[2ee05]",
-          "image": "https://i.ibb.co/thh1tKH/TDP.jpg",
-          "url": "acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05"
-        },
-        {
-          "name": "TDP TeleDeporte (1080p)(**)",
+          "name": "Teledeporte 1080p **",
           "info": "[f74f6]",
           "image": "https://i.ibb.co/thh1tKH/TDP.jpg",
           "url": "acestream://3b50a1dca0977e3761d016edd79314ab797f74f6"
-        },
-        {
-          "name": "TDP TeleDeporte (720p)(*)",
-          "info": "[2e5ae]",
-          "image": "https://i.ibb.co/thh1tKH/TDP.jpg",
-          "url": "acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae"
         },
         {
           "name": "BE MAD [1080]",
@@ -98,30 +100,35 @@
           "url": "acestream://e3362507e7c732b9461bd7bdc74bd054c49b3ba7"
         },
         {
-          "name": "ESPORT 3 CAT [1080]",
-          "info": "b132   ",
+          "name": "Esport3 720p *",
+          "info": "[1f23c]",
           "image": "https://i.postimg.cc/0yL26PyR/Esport3.jpg",
-          "url": "acestream://4c0e50c9cc4971479feb12cc46ab1f5dbce8b132"
+          "url": "acestream://739792a3225e5eb3056f4faa7b1137c7f161f23c"
         },
         {
-          "name": "REAL MADRID TV [1080]",
-          "info": "6dcd",
+          "name": "Esport3 720p **",
+          "info": "[842e3]",
+          "image": "https://i.postimg.cc/0yL26PyR/Esport3.jpg",
+          "url": "acestream://ed6524f8f73c30cf102fde66f2cb520f4b5842e3"
+        },
+        {
+          "name": "Esport3 1080p *",
+          "info": "[1d04d]",
+          "image": "https://i.postimg.cc/0yL26PyR/Esport3.jpg",
+          "url": "acestream://21bc11d195f5753c396e390c215952d21541d04d"
+        },
+        {
+          "name": "Esport3 1080p **",
+          "info": "[fc3bc]",
+          "image": "https://i.postimg.cc/0yL26PyR/Esport3.jpg",
+          "url": "acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc"
+        },
+        {
+          "name": "Real Madrid TV 1080p *",
+          "info": "[b7be7]",
           "image": "https://i.postimg.cc/3NwHYDx6/logo-real-madrid.png",
-          "url": "acestream://0827cf7d290967985892965c6e61244a479d6dcd"
-        },
-        {
-          "name": "REAL MADRID TV [1080]",
-          "info": "0be8",
-          "image": "https://i.postimg.cc/3NwHYDx6/logo-real-madrid.png",
-          "url": "acestream://d644f9276c8c204882ccc4e80cc26f7986830be8"
-        },
-        {
-          "name": "REAL MADRID TV [1080]",
-          "info": "cd11",
-          "image": "https://i.postimg.cc/JhcwXQyv/logo-real-madrid-2.png",
-          "url": "acestream://0ec3f3786318acd8dca2588f74c3759cda76cd11"
+          "url": "acestream://ac353757b626cedc6461d8eb73bfffa15fbb7be7"
         }
-
       ]
     }
 
