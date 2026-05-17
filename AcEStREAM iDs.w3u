@@ -5,8 +5,8 @@
   "image": "https://images3.alphacoders.com/595/595865.jpg",
   "telegram": "Lista_AF1CIONADOS",
   "info": "Lista recopilada de Ids. bY. Lukas",
-  "groups": [
-
+  "groups": 
+    [
     {
       "name": "DAZN",
       "image": "https://i.postimg.cc/g0kVtxxx/logo1-17-10546-removebg-preview.png",
@@ -106,7 +106,7 @@
     {
       "name": "ACB EVENTOS",
       "image": "https://i.postimg.cc/Pxw6rKNp/logo1-25-123055.png",
-      "url": "https://n9.cl/zxk3c",
+      "url": "https://raw.githubusercontent.com/af1Series1/Tritolgia/refs/heads/main/11.%20ACB.Eventos",
       "imageScale": "",
       "info": ""
     },
