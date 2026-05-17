@@ -1,24 +1,23 @@
 {
   "name": "MOVISTAR PLUS",
   "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
-  "url": "",
+  "url": "https://raw.githubusercontent.com/af1Series1/Tritolgia/refs/heads/main/07.%20Movistar%20Plus.w3u",
   "image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
   "telegram": "Lista_AF1CIONADOS",
   "info": "Lista recopilada de Ids. bY. Lukas",
   "stations": 
     [
         {
-          "name": "MOVISTAR Disney Junior (1080)(*)",
-          "info": "[586d1]",
-          "image": "https://i.postimg.cc/YqJpfzfk/logo1-16-175117.png",
-          "url": "acestream://a722bc25dfa16d1112fde83cb79501b9756586d1"
-        },
-       {
-          "name": "MOVISTAR PLUS (1080)(**)",
+          "name": "MOVISTAR PLUS 1080p **",
           "info": "[2ab78]",
           "image": "https://i.postimg.cc/YqJpfzfk/logo1-16-175117.png",
           "url": "acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78"
+        },
+       {
+          "name": "Disney Junior 1080p *",
+          "info": "[586d1]",
+          "image": "https://i.postimg.cc/YqJpfzfk/logo1-16-175117.png",
+          "url": "acestream://a722bc25dfa16d1112fde83cb79501b9756586d1"
         }
       ]
     }
-
