@@ -7,7 +7,6 @@
   "info": "Lista recopilada de Ids. bY. Lukas",
   "stations": 
     [
-
        {
           "name": "LA 1 FHD (720)(Elcano)",
           "info": "[de8a8]",
@@ -15,22 +14,10 @@
           "url": "acestream://02622fa2fab63847d88dc14fd9fa5c2fc35de8a8"
         },
         {
-          "name": "LA 1 FHD (New Era)",
-          "info": "740c",
-          "image": "https://i.ibb.co/swhGnw4/La1.jpg",
-          "url": "acestream://dad5e0e0825cb3e410008f1c4252387b868e740c"
-        },
-        {
-          "name": "LA 2 FHD (1080)(Elcano)",
-          "info": "[94146]",
+          "name": "La 2 TVE 1080p *",
+          "info": "[5798b]",
           "image": "https://i.postimg.cc/13XJ1k3Y/Logo-La2.png",
-          "url": "acestream://9b461120d04b7651990c3b54a0821c60c3b94146"
-        },
-        {
-          "name": "LA 2 FHD (720)(Elcano)",
-          "info": "[a894f]",
-          "image": "https://i.postimg.cc/13XJ1k3Y/Logo-La2.png",
-          "url": "acestream://001a809c577ef916a57340151c6112ebcb7a894f"
+          "url": "acestream://1acd38e6176c782f5184c8736e0cf7127b65798b"
         },
         {
           "name": "ANTERNA 3 FHD (New Era)",
