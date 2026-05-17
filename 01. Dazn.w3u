@@ -24,7 +24,13 @@
           "name": "DAZN 1 ()(**)",
           "info": "[b8e62]",
           "image": "https://i.postimg.cc/g0kVtxxx/logo1-17-10546-removebg-preview.png",
-          "url": "acestream://9afc89481b721ce6c326c85e47148676077b8e62"
+          "url": "acestream://f9c6a0e04cb062098571c6cbaa6fa4b60cc7e0cb"
+        },
+        {
+          "name": "DAZN 2 (1080)(*)",
+          "info": "[5c61d]",
+          "image": "https://i.postimg.cc/g0kVtxxx/logo1-17-10546-removebg-preview.png",
+          "url": "acestream://01ce89b571b6c89bc19ccaafc913d483ac65c61d"
         },
         {
           "name": "DAZN 2 (1080)(**)",
@@ -43,8 +49,13 @@
           "info": "[5b1dc]",
           "image": "https://i.postimg.cc/g0kVtxxx/logo1-17-10546-removebg-preview.png",
           "url": "acestream://d669c6cee7173a1c8994075f7050a6526655b1dc"
+        },
+        {
+          "name": "DAZN 4 (1080)(**)",
+          "info": "[5b1dc]",
+          "image": "https://i.postimg.cc/g0kVtxxx/logo1-17-10546-removebg-preview.png",
+          "url": "acestream://9ced16b2055c99bf89c26e678e315e1b01d3734c"
         }
-
       ]
     }
 
