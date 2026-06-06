@@ -7,9 +7,10 @@
   "info": "Lista recopilada de Ids. bY. Lukas",
   "stations": 
 	[
+
         {
-          "DAZN 1 720p *",
-			"info": "[07884]",
+          "name": "DAZN 1 720p *",
+          "info": "[07884]",
           "image": "https://i.postimg.cc/g0kVtxxx/logo1-17-10546-removebg-preview.png",
           "url": "acestream://a116ce3ff95c41c60e987e2b1aa247007f707884"
         },
