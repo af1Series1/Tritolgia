@@ -14,28 +14,16 @@
           "url": "acestream://a116ce3ff95c41c60e987e2b1aa247007f707884"
         },
         {
-          "name": "DAZN 1 720p **",
-          "info": "[7e0cb]",
-          "image": "https://i.postimg.cc/g0kVtxxx/logo1-17-10546-removebg-preview.png",
-          "url": "acestream://f9c6a0e04cb062098571c6cbaa6fa4b60cc7e0cb"
-        },
-        {
           "name": "DAZN 1 1080p **",
           "info": "[fb398]",
           "image": "https://i.postimg.cc/g0kVtxxx/logo1-17-10546-removebg-preview.png",
           "url": "acestream://78124d96a1a4601e7910f50e36a16e35efcfb398"
         },
         {
-          "name": "DAZN 2 1080p *",
-          "info": "[5c61d]",
+          "name": "DAZN 2 720p **",
+          "info": "[7c11b]",
           "image": "https://i.postimg.cc/g0kVtxxx/logo1-17-10546-removebg-preview.png",
-          "url": "acestream://01ce89b571b6c89bc19ccaafc913d483ac65c61d"
-        },
-        {
-          "name": "DAZN 2 1080p **",
-          "info": "[79e74]",
-          "image": "https://i.postimg.cc/g0kVtxxx/logo1-17-10546-removebg-preview.png",
-          "url": "acestream://d60b8c154828cb990b7bb1570764b215bd979e74"
+          "url": "acestream://350bb4d726e2dd4dc4b2b17b59da783fdb07c11b"
         },
         {
           "name": "DAZN 3 1080p *",
@@ -44,10 +32,10 @@
           "url": "acestream://908bc5e7ae52afc06e40793b6db749dba11a1780"
         },
         {
-          "name": "DAZN 4 1080p *",
-          "info": "[5b1dc]",
+          "name": "DAZN 3 **",
+          "info": "[cf3e1]",
           "image": "https://i.postimg.cc/g0kVtxxx/logo1-17-10546-removebg-preview.png",
-          "url": "acestream://d669c6cee7173a1c8994075f7050a6526655b1dc"
+          "url": "acestream://e1ccce973c71547a8acda770885cb1c30a9cf3e1"
         },
         {
           "name": "DAZN 4 **",
