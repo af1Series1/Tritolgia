@@ -26,10 +26,22 @@
           "url": "acestream://c6a824a81b36f6c3529826477caf2ad94b45776d"
         },
         {
-          "name": "M+ Deportes 1080p **",
-          "info": "[4662f]",
+          "name": "M+ Deportes ELCANO",
+          "info": "[]",
           "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png",
-          "url": "acestream://cf5327fe9c962a29dfff3868f4349ff2b0b4662f"
+          "url": "acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a"
+        },
+        {
+          "name": "M+ Deportes ELCANO",
+          "info": "[]",
+          "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05"
+        },
+        {
+          "name": "M+ Deportes NEW ERA",
+          "info": "[]",
+          "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://af393f93814d03160d48d2730759593b7bea5b47"
         },
         {
           "name": "M+ Deportes 2 720p *",
@@ -80,10 +92,22 @@
           "url": "acestream://84aed52c5deb78f58595d88250e7a2bd04dfd810"
         },
         {
+          "name": "M+ Deportes 3 SPORT TV",
+          "info": "[]",
+          "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://39fefdecfc953dcf6e7c589739bf486c2e605ed0"
+        },
+        {
           "name": "M+ Deportes 4 1080p **",
           "info": "[f6258]",
           "image": "https://i.postimg.cc/bN2ykFF8/Deportes-por-Movistar-4-2022-logo.png",
           "url": "acestream://7bede102385c65a545db531af476ef18c31f6258"
+        },
+        {
+          "name": "M+ Deportes 4 SPORT TV",
+          "info": "[]",
+          "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://8b5f9d967384afab226dd759e6e9dfaee9993869"
         },
         {
           "name": "M+ Deportes 5 1080p *",
@@ -98,10 +122,34 @@
           "url": "acestream://15ec214bb10925dadd16a1716bb2042af6008a93"
         },
         {
+          "name": "M+ Deportes 5 NEW ERA",
+          "info": "[]",
+          "image": "https://i.postimg.cc/wMRp572F/Deportes-por-Movistar-5-2022-logo.png",
+          "url": "acestream://5913205fb6d6d162a50222709aab6129eb7cf916"
+        },
+        {
+          "name": "M+ Deportes 5 SPORT TV",
+          "info": "[]",
+          "image": "https://i.postimg.cc/wMRp572F/Deportes-por-Movistar-5-2022-logo.png",
+          "url": "acestream://3230cdca852a10325222e3c546e499e31d547a90"
+        },
+        {
           "name": "M+ Deportes 6 1080p *",
           "info": "[2524a]",
           "image": "https://i.postimg.cc/wMRp572F/Deportes-por-Movistar-5-2022-logo.png",
           "url": "acestream://e6cd9205e26b3b6680f607030c702e911272524a"
+        },
+        {
+          "name": "M+ Deportes 6 ELCANO",
+          "info": "[]",
+          "image": "https://i.postimg.cc/wMRp572F/Deportes-por-Movistar-5-2022-logo.png",
+          "url": "acestream://765f6a743bcfde948418aaf0de6e66de6a9fbaa6"
+        },
+        {
+          "name": "M+ Deportes 6 SPORT TV",
+          "info": "[]",
+          "image": "https://i.postimg.cc/wMRp572F/Deportes-por-Movistar-5-2022-logo.png",
+          "url": "acestream://8f982a0d6e3196c12d0034142b65008321150f7c"
         },
         {
           "name": "M+ Deportes 7 1080p *",
