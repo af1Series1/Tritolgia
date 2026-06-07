@@ -20,22 +20,34 @@
           "url": "acestream://8522af51ae7189b12effabbb448dcb707195ce1a"
         },
         {
+          "name": "Eurosport 1 1080p **",
+          "info": "[4cfe9]",
+          "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png",
+          "url": "acestream://48a589dbeab3544662fafd79888aada7d834cfe9"
+        },
+        {
           "name": "Eurosport 2 720p **",
-          "info": "[dc16b2]",
+          "info": "[c16b2]",
           "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png",
           "url": "acestream://7152d5f5fdb2184c88c2bb433d8b8f619cdc16b2"
         },
         {
-          "name": "Eurosport 2 1080p **",
-          "info": "[18a3a]",
+          "name": "Eurosport 2 SPORT TV",
+          "info": "[3b8e0]",
           "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png",
-          "url": "acestream://c6180a86440004748e2abe34d6f31eed8a218a3a"
+          "url": "acestream://6176281b9c46a5621a0e88524f8dc621f173b8e0"
         },
         {
-          "name": "Eurosport 2 *",
-          "info": "[7a193]",
+          "name": "Eurosport 2 SPORT TV",
+          "info": "[766d8]",
           "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png",
-          "url": "acestream://f5908690485ae2facecf3074446ba4315f07a193"
+          "url": "acestream://7aa9cc819c6fa781dea6b4de3aa5393258b766d8"
+        },
+        {
+          "name": "Eurosport 2 SPORT TV",
+          "info": "[c32c6]",
+          "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png",
+          "url": "acestream://ac675c82d6dfd4a201532c18b42e48dacb7c32c6"
         }
 ]
 }
