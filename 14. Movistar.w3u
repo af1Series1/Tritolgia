@@ -7,36 +7,95 @@
   "info": "Lista recopilada de Ids. bY. Shickat",
   "stations": 
 	[
-
         {
-          "name": "ESTRENOS (FHD) (Shickat)",
-          "info": "1d38",
+          "name": "CALLE 13 (FHD) (New Era)",
+          "info": "[]",
           "image": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png",
-          "url": "acestream://b71478c824f787a6a696139db0d053de6fdd1d38"
+          "url": "acestream://296007b6a8c2ea9ceb7d6528f5e5e109c3142fa0"
+        },
+        {
+          "name": "COCINA (FHD) (New Era)",
+          "info": "[]",
+          "image": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png",
+          "url": "acestream://96f092e1fa99062f6da14cae230b877ad3ed849b"
+        },
+        {
+          "name": "CAZA y PESCA (FHD) (New Era)",
+          "info": "[]",
+          "image": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png",
+          "url": "acestream://8b9e46eb3a9b4ef23b7d3d86c73a0851580f8caa"
+        },
+        {
+          "name": "DARK (FHD) (New Era)",
+          "info": "[]",
+          "image": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png",
+          "url": "acestream://fd7e013b1827db32af3665d1ef5da7fc0cc6ae5d"
+        },
+        {
+          "name": "ACCION (FHD) (New Era)",
+          "info": "[]",
+          "image": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png",
+          "url": "acestream://f3a6d058791f0818a3301f9d5eeb60cfb54d905d"
+        },
+        {
+          "name": "CINE ESPAÑOL (FHD) (New Era)",
+          "info": "[]",
+          "image": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png",
+          "url": "acestream://f4e37b63fb042d90528585741a39851af543deca"
+        },
+        {
+          "name": "COMEDIA (FHD) (New Era)",
+          "info": "[]",
+          "image": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png",
+          "url": "acestream://e8cd9088fee41413df360e4539c9e7184a63ffcb"
+        },
+        {
+          "name": "DOCUMENTALES (FHD) (New Era)",
+          "info": "[]",
+          "image": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png",
+          "url": "acestream://6317bdcbe852dce829e5c647cce4da04a7dcb7f5"
+        },
+        {
+          "name": "ESTRENOS (FHD) ()",
+          "info": "[]",
+          "image": "ttps://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png",
+          "url": "acestream://"
+        },
+        {
+          "name": "HITS (FHD) (New Era)",
+          "info": "[]",
+          "image": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png",
+          "url": "acestream://0bb012ac0e815b413831687a4a9b61777b3338f4"
+        },
+        {
+          "name": "ORIGINALES (FHD) (New Era)",
+          "info": "[]",
+          "image": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png",
+          "url": "acestream://60a59a6259b6d4cb5b826e1847cd0af0a7ecc1ce"
+        },
+        {
+          "name": "NICKELODEON (FHD) (New Era)",
+          "info": "[]",
+          "image": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png",
+          "url": "acestream://3f2b6ac892758f5f3574f649ba9c486b341ca20e"
+        },
+        {
+          "name": "ONE TORO (FHD) (New Era)",
+          "info": "[]",
+          "image": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png",
+          "url": "acestream://889db6c87a28fd5b3092333b63bcdddf05d26216"
+        },
+        {
+          "name": " (FHD) (New Era)",
+          "info": "[]",
+          "image": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png",
+          "url": "acestream://"
         },
         {
           "name": "SERIES (FHD) (New Era)",
           "info": "891a",
           "image": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png",
           "url": "acestream://2752dee68a7faa9c847216dc22a6821661db891a"
-        },
-        {
-          "name": "DOCUMENTALES (FHD) (Shickat)",
-          "info": "29e6",
-          "image": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png",
-          "url": "acestream://59d7f6da13c21652b1240578fe57dec0cc1529e6"
-        },
-        {
-          "name": "ORIGINALES (FHD) (Shickat)",
-          "info": "1c88",
-          "image": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png",
-          "url": "acestream://60fcd59471ac4268e6cd6448f068a2b518841c88"
-        },
-        {
-          "name": "CINE ESPAÑOL (FHD) (Shickat)",
-          "info": "8bd07",
-          "image": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png",
-          "url": "acestream://168ad4a958aa6daa26adeee9700ed0312618bd07"
         },
         {
           "name": "VACACIONES (FHD) (Shickat)",
@@ -57,34 +116,10 @@
           "url": "acestream://4f35f115971f0b156baabb8efa9926b1eb8ba5af"
         },
         {
-          "name": "ACCION (FHD) (Shickat)",
-          "info": "fc42",
-          "image": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png",
-          "url": "acestream://93b2f5ede5cf2fa0cdb50419258c4f651aabfc42"
-        },
-        {
-          "name": "ACCION (FHD) (New Era)",
-          "info": "59ce",
-          "image": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png",
-          "url": "acestream://102bcb79ca391e37ac1fc9ee77dc53440d0a59ce"
-        },
-        {
-          "name": "COMEDIA (FHD) (Shickat)",
-          "info": "798f",
-          "image": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png",
-          "url": "acestream://124aa6d58fd72a763ed0349c874551bd2504798f"
-        },
-        {
           "name": "DRAMA (FHD) (Shickat)",
           "info": "c983",
           "image": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png",
           "url": "acestream://aff9d7e45c4fc0f97ec8ec2b6d80cd3feb87c983"
-        },
-        {
-          "name": "HITS (FHD) (Shickat)",
-          "info": "0695",
-          "image": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png",
-          "url": "acestream://28b9b7ba12c0f5c7e097f4b07a547f6eda9a0695"
         },
         {
           "name": "CLASICOS (FHD) (Shickat)",
@@ -99,18 +134,6 @@
           "url": "acestream://cf6ffdfa3c51268c0bd216da6b275fb866160c0c"
         },
         {
-          "name": "COCINA (FHD) (Shickat)",
-          "info": "fbb3",
-          "image": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png",
-          "url": "acestream://db81615f1b2eebaf584edc252ddd73883123fbb3"
-        },
-        {
-          "name": "COCINA (FHD) (New Era)",
-          "info": "849b",
-          "image": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png",
-          "url": "acestream://96f092e1fa99062f6da14cae230b877ad3ed849b"
-        },
-        {
           "name": "MOVISTAR NATIONAL GEOGRAPHIC (FHD) (Shickat)",
           "info": "dfff",
           "image": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png",
@@ -121,20 +144,7 @@
           "info": "6d00",
           "image": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png",
           "url": "acestream://51d0b5249e229a07ecc52286f56a67c3d9df6d00"
-        },
-        {
-          "name": "PESCA Y CAZA (FHD) (Shickat)",
-          "info": "e10f",
-          "image": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png",
-          "url": "acestream://6f28b1b9eb9f4047a6179b300e65b03c8316e10f"
-        },
-        {
-          "name": "ONE TORO (FHD) (Shickat)",
-          "info": "43c0",
-          "image": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png",
-          "url": "acestream://1fd3dbb7d39de875ac70059d70c8768d4a2e43c0"
         }
-
       ]
     }
 
