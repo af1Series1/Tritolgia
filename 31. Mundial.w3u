@@ -9,27 +9,51 @@
 	[
         {
           "name": "Mundial Futbol 2026",
-          "info": "[]",
+          "info": "[Dazn Mundial 1 *]",
           "image": "https://i.postimg.cc/B6CCsjzJ/logo6-10-202323.png",
           "url": "acestream://414222dc7b69a626f29eb964450dae44b3bc9b36"
         },
         {
           "name": "Mundial Futbol 2026",
-          "info": "[]",
+          "info": "[Dazn Mundial 1]",
+          "image": "https://i.postimg.cc/B6CCsjzJ/logo6-10-202323.png",
+          "url": "acestream://ccfde4bc75d14c79dd09af72434568a0e732d507"
+        },
+        {
+          "name": "Mundial Futbol 2026",
+          "info": "[Dazn Mundial 2 *]",
           "image": "https://i.postimg.cc/B6CCsjzJ/logo6-10-202323.png",
           "url": "acestream://63b1933154919d116f08e33ffcb31a23f9483989"
         },
         {
           "name": "Mundial Futbol 2026",
-          "info": "[]",
+          "info": "[Dazn Mundial 2 ]",
+          "image": "https://i.postimg.cc/B6CCsjzJ/logo6-10-202323.png",
+          "url": "acestream://dac18df259f44258d81aa8f31cb343bb837f5ac7"
+        },
+        {
+          "name": "Mundial Futbol 2026",
+          "info": "[Dazn Mundial 3 *]",
           "image": "https://i.postimg.cc/B6CCsjzJ/logo6-10-202323.png",
           "url": "acestream://7cf306fc097deca7005b220b1f6206bd654b5ca5"
         },
         {
           "name": "Mundial Futbol 2026",
-          "info": "[]",
+          "info": "[Dazn Mundial 3 ]",
+          "image": "https://i.postimg.cc/B6CCsjzJ/logo6-10-202323.png",
+          "url": "acestream://f28f558a7699237cb4ec1e0075db4073ffc3a415"
+        },
+        {
+          "name": "Mundial Futbol 2026",
+          "info": "[Dazn Mundial 4 *]",
           "image": "https://i.postimg.cc/B6CCsjzJ/logo6-10-202323.png",
           "url": "acestream://aab0be9632ef2f53e99f2e596a8e6a30ed34a29c"
+        },
+        {
+          "name": "Mundial Futbol 2026",
+          "info": "[Dazn Mundial 4 ]",
+          "image": "https://i.postimg.cc/B6CCsjzJ/logo6-10-202323.png",
+          "url": "acestream://584e20154750a15d14cb59953bb9cdd923c331bb"
         }
 ]
 }
