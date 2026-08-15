@@ -8,12 +8,6 @@
 "stations": 
 	[
         {
-          "name": "M+ Vamos 1080p *",
-          "info": "[767fc]",
-          "image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
-          "url": "acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc"
-        },
-        {
           "name": "M+ Vamos 1080p **",
           "info": "[dad16]",
           "image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
@@ -26,22 +20,16 @@
           "url": "acestream://5e310dbffed8c941d20ad819cb8ef43c34b07884"
         },
         {
-          "name": "M+ VAMOS 3 720p **",
-          "info": "[1f53a]",
-          "image": "https://i.postimg.cc/wBRc6GSG/vamos.png", 
-          "url": "acestream://837883625d40e1eb5566eefaf74811046491f53a"
+          "name": "M+ VAMOS 2 1080p **",
+          "info": "[4f7253]",
+          "image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
+          "url": "acestream://763f307cd0af4007f11d24f56644c05bd64f7253"
         },
         {
-          "name": "M+ VAMOS 3 1080p *",
-          "info": "[acf2c]",
+          "name": "M+ VAMOS 3 1080p **",
+          "info": "[274455]",
           "image": "https://i.postimg.cc/wBRc6GSG/vamos.png", 
-          "url": "acestream://b46a524780cf0ac5e533491fe79389d6198acf2c"
-        },
-        {
-          "name": "M+ VAMOS 3 1080p *",
-          "info": "[f9e96]",
-          "image": "https://i.postimg.cc/wBRc6GSG/vamos.png", 
-          "url": "acestream://a9299052e9a16e5e2924e1fdd00b877c374f9e96"
+          "url": "acestream://b7b1c1eeb4be09c63fbc2f319c9760851c274455"
         }
 ]
 }
