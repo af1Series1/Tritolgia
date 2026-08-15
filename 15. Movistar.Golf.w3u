@@ -8,22 +8,22 @@
   "stations": 
 	[
         {
-          "name": "M+ Golf 1080p *",
-          "info": "[eddd6]",
-          "image": "https://i.postimg.cc/yx9c39GB/logo1-17-10417-removebg-preview.png",
-          "url": "acestream://f60535a458b3c114283e2f433379144345beddd6"
-        },
-        {
-          "name": "M+ Golf 1080p *",
-          "info": "[eddd6]",
-          "image": "https://i.postimg.cc/yx9c39GB/logo1-17-10417-removebg-preview.png",
-          "url": "acestream://9bb2a7dc6c6a296609df8cc50e742a78194f7530"
-        },
-        {
           "name": "M+ Golf 1080p **",
           "info": "[166eb]",
           "image": "https://i.postimg.cc/yx9c39GB/logo1-17-10417-removebg-preview.png",
           "url": "acestream://8121478d3d3e563ad6b98018bc1c0aeb2f6166eb"
+        },
+        {
+          "name": "M+ Golf 2 1080p *",
+          "info": "[6ca714]",
+          "image": "https://i.postimg.cc/yx9c39GB/logo1-17-10417-removebg-preview.png",
+          "url": "acestream://597cca4ef375529aaca0608b43187d99d26ca714"
+        },
+        {
+          "name": "M+ Golf 2 1080p **",
+          "info": "[64917ef]",
+          "image": "https://i.postimg.cc/yx9c39GB/logo1-17-10417-removebg-preview.png",
+          "url": "acestream://882074140fca664e119a43294afa2fb4a64917ef"
         }
     ]
 }
