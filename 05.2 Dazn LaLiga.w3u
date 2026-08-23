@@ -8,12 +8,6 @@
 "stations":  
       [
         {
-          "name": "DAZN LaLiga 720p *",
-          "info": "[569dbb9]",
-          "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
-          "url": "acestream://eb4975702ceadca7ed74f8707e17a9f55569dbb9"
-        },
-        {
           "name": "DAZN LaLiga 720p **",
           "info": "[5c0a55]",
           "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
@@ -21,9 +15,9 @@
         },
         {
           "name": "DAZN LaLiga 1080p *",
-          "info": "[b7d889]",
+          "info": "[2dfd8e]",
           "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
-          "url": "acestream://cc108ae39f92c48f6c946763047bd1c9b7b7d889"
+          "url": "acestream://9c588ac92554746c489bc553773d959f6d2dfd8e"
         },
         {
           "name": "DAZN LaLiga 1080p **",
