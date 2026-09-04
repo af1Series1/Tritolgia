@@ -1,5 +1,5 @@
 {
-"name": "ACB EVENTOS",
+"name": "DAZN BALONCESTO",
 "image": "https://i.postimg.cc/B613K9W3/logo1-16-171737.png",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "url": "https://raw.githubusercontent.com/af1Series1/Tritolgia/refs/heads/main/11.%20ACB.Eventos",
@@ -8,40 +8,40 @@
 "stations": 
 	[
         {
-          "name": "ACB EVENTOS 1 (720)(*)",
-          "info": "[9d5d2]",
+          "name": "DAZN Baloncesto 720p *",
+          "info": "[09fa5]",
           "image": "https://i.postimg.cc/B613K9W3/logo1-16-171737.png",
-          "url": "acestream://8faa686a99697b99261346e479ead172b1d9d5d2"
+          "url": "acestream://9dd9cd78f0b08097a0ad290606dbbee999709fa5"
         },
         {
-          "name": "ACB EVENTOS 1 (720)(**)",
-          "info": "[a9239]",
+          "name": "DAZN Baloncesto 1080p *",
+          "info": "[bba2e]",
           "image": "https://i.postimg.cc/B613K9W3/logo1-16-171737.png",
-          "url": "acestream://23bee556c002d0726c1f0cac98a1901cff0a9239"
+          "url": "acestream://2cfbb2cb8923b15b0ef74aba69e8137b0fbbba2e"
         },
         {
-          "name": "ACB EVENTOS 1 ()(**)",
-          "info": "[60d75]",
+          "name": "DAZN Baloncesto 1080p *",
+          "info": "[c0cf07]",
           "image": "https://i.postimg.cc/B613K9W3/logo1-16-171737.png",
-          "url": "acestream://53962d7fb865aff73b34a3afb2905cd492f60d75"
+          "url": "acestream://6fbd92735502bdebbf1ea58f4298e49759c0cf07"
         },
         {
-          "name": "ACB EVENTOS 2 ()(**)",
-          "info": "[551cd]",
+          "name": "DAZN Baloncesto 2 1080p *",
+          "info": "[978344]",
           "image": "https://i.postimg.cc/B613K9W3/logo1-16-171737.png",
-          "url": "acestream://22b702984a0db43fd371c30e2df150b2336551cd"
+          "url": "acestream://853129258a5cb51f27829eddb934e58b45978344"
         },
         {
-          "name": "ACB EVENTOS 3 (720)(*)",
-          "info": "[2900c]",
+          "name": "M+ Baloncesto 1080p *",
+          "info": "[a761aa0]",
           "image": "https://i.postimg.cc/B613K9W3/logo1-16-171737.png",
-          "url": "acestream://119087e842ea8857124b9405b10bb6cfffd2900c"
+          "url": "acestream://34b91125bd752462f1eca2d8d52f5f40fa761aa0"
         },
         {
-          "name": "ACB EVENTOS 3 ()(**)",
-          "info": "[d00d9]",
+          "name": "M+ Baloncesto 2 1080p *",
+          "info": "[8f21f1]",
           "image": "https://i.postimg.cc/B613K9W3/logo1-16-171737.png",
-          "url": "acestream://02ec118ee4586d96df9115ffc486be9a499d00d9"
+          "url": "acestream://88113ee23295b8930ae328a88a8c1b861b8f21f1"
         }
 
     ]
