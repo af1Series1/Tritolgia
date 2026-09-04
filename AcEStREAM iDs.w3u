@@ -7,13 +7,7 @@
   "info": "Lista recopilada de Ids. bY. Lukas",
   "groups": 
     [
-  {
-      "name": "Mundial Futbol 2026",
-      "url": "https://raw.githubusercontent.com/af1Series1/Tritolgia/refs/heads/main/31.%20Mundial.w3u",
-      "image": "https://i.postimg.cc/B6CCsjzJ/logo6-10-202323.png",
-      "imageScale": "",
-      "info": ""
-    },
+
     {
       "name": "DAZN",
       "image": "https://i.postimg.cc/g0kVtxxx/logo1-17-10546-removebg-preview.png",
@@ -111,9 +105,9 @@
     },
 
     {
-      "name": "ACB EVENTOS",
+      "name": "DAZM BALONCESTO",
       "image": "https://i.postimg.cc/Pxw6rKNp/logo1-25-123055.png",
-      "url": "https://raw.githubusercontent.com/af1Series1/Tritolgia/refs/heads/main/11.%20ACB.Eventos",
+      "url": "https://raw.githubusercontent.com/af1Series1/Tritolgia/refs/heads/main/11.%20DAZN%20Baloncesto",
       "imageScale": "",
       "info": ""
     },
