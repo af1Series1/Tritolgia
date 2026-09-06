@@ -8,28 +8,58 @@
   "stations": 
 	[
        {
+          "name": "M+ Liga de Campeones 720p **",
+          "info": "[]",
+          "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439"
+        },
+        {
           "name": "M+ Liga de Campeones 1080p *",
-          "info": "[86920]",
+          "info": "[]",
+          "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
+          "url": "97df5b7824948972d041d8ca2a4d29c90b641bc9"
+        },
+        {
+          "name": "M+ Liga de Campeones 1080p **",
+          "info": "[]",
           "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
           "url": "acestream://91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920"
         },
         {
-          "name": "M+ Liga de Campeones 1080p **",
-          "info": "[41bc9]",
+          "name": "M+ Liga de Campeones 2 720p **",
+          "info": "[]",
           "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
-          "url": "acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9"
+          "url": "acestream://47188da7d2e4beaee82cff174f223fdd23f78fa6"
         },
         {
           "name": "M+ Liga de Campeones 2 1080p **",
-          "info": "[b8029c5]",
+          "info": "[]",
           "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
-          "url": "acestream://74ab4e4ec7e2da001f473ca40893b7307b8029c5"
+          "url": "acestream://8156912ae14f6174a19c8a4efcf36a06e847f632"
+        },
+        {
+          "name": "M+ Liga de Campeones 3 720p *",
+          "info": "[]",
+          "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://cfc371890bfb502737a26de5215e50929c52d0f9"
+        },
+        {
+          "name": "M+ Liga de Campeones 3 720p **",
+          "info": "[]",
+          "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://5b7f54b12e0f96ceba1299f44eac4b0f97403e4e"
+        },
+        {
+          "name": "M+ Liga de Campeones 3 1080p *",
+          "info": "[]",
+          "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://85a8e0675bc27ddfd403b8f72953c606d07a8de8"
         },
         {
           "name": "M+ Liga de Campeones 3 1080p **",
-          "info": "[0922bc7]",
+          "info": "[]",
           "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
-          "url": "acestream://4416843c96b7f7a1bc55c476091a60fff0922bc7"
+          "url": "acestream://320bee0fbdf2a168d47810236985a7c40b4f85c9"
         }
       ]
     }
