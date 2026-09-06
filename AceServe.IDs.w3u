@@ -483,6 +483,40 @@
     },
 
 
+    {
+      "name": "RFEF TV",
+      "image": "https://i.postimg.cc/L8TQBms5/logo4-4-194132.png",
+      "imageScale": "",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "RFEF TV 1080p *",
+          "info": "[]",
+          "image": "https://i.postimg.cc/L8TQBms5/logo4-4-194132.png",
+          "url": "http://127.0.0.1:6878/ace/getstream?id=854ff9c607101791346111cd2366a392c3b8c351"
+        },
+        {
+          "name": "RFEF TV 1080p *",
+          "info": "[]",
+          "image": "https://i.postimg.cc/L8TQBms5/logo4-4-194132.png",
+          "url": "http://127.0.0.1:6878/ace/getstream?id=3fbc1b7dc316f19b77e7f7cfc775a0af67adcc7f"
+        },
+        {
+          "name": "RFEF TV 1080p **",
+          "info": "[]",
+          "image": "https://i.postimg.cc/L8TQBms5/logo4-4-194132.png",
+          "url": "http://127.0.0.1:6878/ace/getstream?id=7b742628b9f7e82902bdbc1ff92eba1988875cfc"
+        },
+        {
+          "name": "RFEF TV 1080p **",
+          "info": "[]",
+          "image": "https://i.postimg.cc/L8TQBms5/logo4-4-194132.png",
+          "url": "http://127.0.0.1:6878/ace/getstream?id=177796041773be99b489dd3ce86144f243e7355f"
+        }
+      ]
+    },
+
 
   {
   "name": "Dazn MotoGP",
