@@ -9,15 +9,27 @@
 	[
         {
           "name": "RFEF TV 1080p *",
-          "info": "[7355f]",
+          "info": "[]",
           "image": "https://i.postimg.cc/L8TQBms5/logo4-4-194132.png",
-          "url": "acestream://177796041773be99b489dd3ce86144f243e7355f"
+          "url": "acestream://854ff9c607101791346111cd2366a392c3b8c351"
+        },
+        {
+          "name": "RFEF TV 1080p *",
+          "info": "[]",
+          "image": "https://i.postimg.cc/L8TQBms5/logo4-4-194132.png",
+          "url": "acestream://3fbc1b7dc316f19b77e7f7cfc775a0af67adcc7f"
         },
         {
           "name": "RFEF TV 1080p **",
-          "info": "[8c351]",
+          "info": "[]",
           "image": "https://i.postimg.cc/L8TQBms5/logo4-4-194132.png",
-          "url": "acestream://854ff9c607101791346111cd2366a392c3b8c351"
+          "url": "acestream://7b742628b9f7e82902bdbc1ff92eba1988875cfc"
+        },
+        {
+          "name": "RFEF TV 1080p **",
+          "info": "[]",
+          "image": "https://i.postimg.cc/L8TQBms5/logo4-4-194132.png",
+          "url": "acestream://177796041773be99b489dd3ce86144f243e7355f"
         }
-]
+	]
 }
