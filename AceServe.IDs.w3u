@@ -112,82 +112,40 @@
       "stations": 
       [
         {
-          "name": "DAZN F1 (1080)(Elcano)",
-          "info": "[6cc73]",
+          "name": "DAZN F1 720p *",
+          "info": "[]",
+          "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png",
+          "url": "http://127.0.0.1:6878/ace/getstream?id=f16d68fa5ff64f3894a45062ca28e4e66f142c6a"
+        },
+        {
+          "name": "DAZN F1 720p **",
+          "info": "[]",
+          "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png",
+          "url": "http://127.0.0.1:6878/ace/getstream?id=27d11bbeb3026231d52de16b1fac48da7a099247"
+        },
+        {
+          "name": "DAZN F1 1080p *",
+          "info": "[]",
+          "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png",
+          "url": "http://127.0.0.1:6878/ace/getstream?id=f8b0eae8fda973cf426311541d1668aa592f0a8c"
+        },
+        {
+          "name": "DAZN F1 1080p *",
+          "info": "[]",
+          "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png",
+          "url": "http://127.0.0.1:6878/ace/getstream?id=0a81ba020d498aca1248e0591d8ffab99eb80bd4"
+        },
+        {
+          "name": "DAZN F1 1080p *",
+          "info": "[]",
+          "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png",
+          "url": "http://127.0.0.1:6878/ace/getstream?id=02be332ebead0484a5354fa25e97b6833b8b129e"
+        },
+        {
+          "name": "DAZN F1 1080p **",
+          "info": "[]",
           "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png",
           "url": "http://127.0.0.1:6878/ace/getstream?id=895d08633bb22c2573281655cf3ca44de476cc73"
-        },
-        {
-          "name": "DAZN F1 (1080)(Elcano)",
-          "info": "[ceaa4]",
-          "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png",
-          "url": "http://127.0.0.1:6878/ace/getstream?id=d719181097d256073844390b3e094fbcb1bceaa4"
-        },
-        {
-          "name": "DAZN F1 (1080)(Elcano)",
-          "info": "[3be55]",
-          "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png",
-          "url": "http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55"
-        },
-        {
-          "name": "DAZN F1 (1080)(Elcano)",
-          "info": "ff6d1",
-          "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png",
-          "url": "http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1"
-        },
-        {
-          "name": "DAZN F1 (1080)(Elcano)",
-          "info": "[9a69]",
-          "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png",
-          "url": "http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69"
-        },
-        {
-          "name": "DAZN F1 (720)(Elcano)",
-          "info": "[1727]",
-          "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png",
-          "url": "http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727"
-        },
-        {
-          "name": "DAZN F1 (FHD)(NewEra)",
-          "info": "bb29",
-          "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png",
-          "url": "http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29"
-        },
-        {
-          "name": "DAZN F1 (FHD)(NewEra)",
-          "info": "a553",
-          "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png",
-          "url": "http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553"
-        },
-        {
-          "name": "DAZN F1 (FHD)(NewEra)",
-          "info": "7494",
-          "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png",
-          "url": "http://127.0.0.1:6878/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797494"
-        },
-        {
-          "name": "DAZN F1 (FHD)(NewEra)",
-          "info": "b8cc",
-          "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png",
-          "url": "http://127.0.0.1:6878/ace/getstream?id=82b4f249788f93b8f9ce968803662d7cd4f1b8cc"
-        },
-        {
-          "name": "DAZN F1 (FHD)(NewEra)",
-          "info": "7711",
-          "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png",
-          "url": "http://127.0.0.1:6878/ace/getstream?id=d5cf2dfa4fb4165ce58bf9db815088c28fec7711"
-        },
-        {
-          "name": "DAZN F1 (FHD)(NewEra VI)",
-          "info": "57c9",
-          "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png",
-          "url": "http://127.0.0.1:6878/ace/getstream?id=8c1155cdfae76eb582290c04904c98da066657c9"
-        },
-        {
-          "name": "DAZN F1 (FHD)(NewEra VI)",
-          "info": "0cd0",
-          "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png",
-          "url": "http://127.0.0.1:6878/ace/getstream?id=ba6e1bdc8e03da60ff572557645eb04370af0cd0"
         }
       ]
     },
