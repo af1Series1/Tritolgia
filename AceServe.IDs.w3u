@@ -517,6 +517,21 @@
       ]
     },
 
+    {
+      "name": "UFC",
+      "image": "https://i.postimg.cc/Hk6VCHsX/Fight-Sports-new.png",
+      "imageScale": "",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "Paramount+ UFC *",
+          "info": "[]",
+          "image": "https://i.postimg.cc/yN6cFvWX/Fight-new.png",
+          "url": "http://127.0.0.1:6878/ace/getstream?id=a895ab5bcc8beba2d2aa6d5aa332927f005baa65"
+        }
+      ]
+    },
 
   {
   "name": "Dazn MotoGP",
@@ -676,30 +691,6 @@
           "url": "http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef"
         },
         {
-          "name": "GOL PLAY [1080]",
-          "info": "eca2",
-          "image": "https://i.postimg.cc/cCThLjpn/gol-play.png",
-          "url": "http://127.0.0.1:6878/ace/getstream?id=d4627f7b6b237a8556819445b3283d866caceca2"
-        },
-        {
-          "name": "GOL PLAY FHD (New Era)",
-          "info": "4a3a",
-          "image": "https://i.postimg.cc/cCThLjpn/gol-play.png",
-          "url": "http://127.0.0.1:6878/ace/getstream?id=b2d560741c006fc5e4a42412bb52dbd25a6a4a3a"
-        },
-        {
-          "name": "GOL PLAY FHD (New Era)",
-          "info": "6175",
-          "image": "https://i.postimg.cc/cCThLjpn/gol-play.png",
-          "url": "http://127.0.0.1:6878/ace/getstream?id=6ca8e5cb0d48f99f3e4bbd0d34eb4d26c13a6175"
-        },
-        {
-          "name": "GOL PLAY FHD (New Era)",
-          "info": "0612",
-          "image": "https://i.postimg.cc/cCThLjpn/gol-play.png",
-          "url": "http://127.0.0.1:6878/ace/getstream?id=9fb99c40a2c45d5c5342b30626eb56140f980612"
-        },
-        {
           "name": "BE MAD [1080]",
           "info": "770c",
           "image": "https://i.ibb.co/2qxWsCP/BeMad.jpg",
@@ -765,6 +756,7 @@
         }
       ]
     },
+
     {
       "name": "MOVISTAR",
       "image": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png",
@@ -1188,6 +1180,7 @@
         }
       ]
     },
+
     {
       "name": "BeIN SPORTS",
       "image": "https://i.postimg.cc/HxFX3jyg/Logo-Bein-Sport.png",
@@ -1239,6 +1232,7 @@
         }
       ]
     },
+
     {
       "name": "ELEVEN SPORT",
       "image": "https://i.postimg.cc/C18XcBQC/logo-Eleven-Sport.png",
@@ -1272,6 +1266,7 @@
         }
       ]
     },
+
     {
       "name": "EXTREME SPORTS",
       "image": "https://i.postimg.cc/3NCP0Gkh/Logo-extreme-canal.png",
@@ -1297,6 +1292,7 @@
         }
       ]
     },
+
     {
       "name": "EUROSPORT 360",
       "image": "https://i.postimg.cc/05LC4FY1/Euro-360-new.png",
@@ -1358,6 +1354,7 @@
         }
       ]
     },
+
     {
       "name": "RED BULL TV",
       "image": "https://i.postimg.cc/8cmv0KdL/Redbull-Tv-new.png",
@@ -1392,69 +1389,6 @@
           "info": "",
           "image": "https://i.postimg.cc/fThn7HgB/Redbull.png",
           "url": "http://127.0.0.1:6878/ace/getstream?id=a0270364634d9c49279ba61ae3d8467809fb7095"
-        }
-      ]
-    },
-    {
-      "name": "UFC",
-      "image": "https://i.postimg.cc/Hk6VCHsX/Fight-Sports-new.png",
-      "imageScale": "",
-      "info": "",
-      "stations": 
-      [
-        {
-          "name": "UFC",
-          "info": "",
-          "image": "https://i.postimg.cc/yN6cFvWX/Fight-new.png",
-          "url": "http://127.0.0.1:6878/ace/getstream?id=822654b2c0db24d1de149cb21fdd44a3b968fbfa"
-        },
-        {
-          "name": "UFC",
-          "info": "",
-          "image": "https://i.postimg.cc/yN6cFvWX/Fight-new.png",
-          "url": "http://127.0.0.1:6878/ace/getstream?id=0585e09bb8ac9720e4c11934f1b184e309291551"
-        },
-        {
-          "name": "UFC",
-          "info": "",
-          "image": "https://i.postimg.cc/yN6cFvWX/Fight-new.png",
-          "url": "http://127.0.0.1:6878/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f"
-        },
-        {
-          "name": "UFC",
-          "info": "",
-          "image": "https://i.postimg.cc/yN6cFvWX/Fight-new.png",
-          "url": "http://127.0.0.1:6878/ace/getstream?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc"
-        },
-        {
-          "name": "UFC",
-          "info": "",
-          "image": "https://i.postimg.cc/yN6cFvWX/Fight-new.png",
-          "url": "http://127.0.0.1:6878/ace/getstream?id="
-        },
-        {
-          "name": "UFC",
-          "info": "IDIOMA ESPAÑOL",
-          "image": "https://i.postimg.cc/yN6cFvWX/Fight-new.png",
-          "url": "http://127.0.0.1:6878/ace/getstream?id=600222a4f98df80a2c0df2d60cb5ff3df9620710"
-        },
-        {
-          "name": "UFC",
-          "info": "IDIOMA ESPAÑOL",
-          "image": "https://i.postimg.cc/yN6cFvWX/Fight-new.png",
-          "url": "http://127.0.0.1:6878/ace/getstream?id=d6cdd724a97fcf851e7ef641c28d6beb8663496e"
-        },
-        {
-          "name": "UFC",
-          "info": "IDIOMA ESPAÑOL",
-          "image": "https://i.postimg.cc/yN6cFvWX/Fight-new.png",
-          "url": "http://127.0.0.1:6878/ace/getstream?id=162942adc047d0f78eac056effbe5bbec54a5e51"
-        },
-        {
-          "name": "UFC",
-          "info": "IDIOMA ESPAÑOL",
-          "image": "https://i.postimg.cc/yN6cFvWX/Fight-new.png",
-          "url": "http://127.0.0.1:6878/ace/getstream?id=e454681a152a86da504e63694f17f90d0586867d"
         }
       ]
     },
