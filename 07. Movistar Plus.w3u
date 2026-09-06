@@ -8,16 +8,22 @@
   "stations": 
     [
        {
-          "name": "Disney Junior 1080p *",
-          "info": "[586d1]",
+          "name": "MOVISTAR PLUS 720p **",
+          "info": "[]",
           "image": "https://i.postimg.cc/YqJpfzfk/logo1-16-175117.png",
-          "url": "acestream://a722bc25dfa16d1112fde83cb79501b9756586d1"
+          "url": "acestream://d23497596720b47b096ec0f850d6d26a19d1a336"
+        },
+        {
+          "name": "MOVISTAR PLUS 1080p *",
+          "info": "[]",
+          "image": "https://i.postimg.cc/YqJpfzfk/logo1-16-175117.png",
+          "url": "acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78"
         },
         {
           "name": "MOVISTAR PLUS 1080p **",
-          "info": "[2ab78]",
+          "info": "[]",
           "image": "https://i.postimg.cc/YqJpfzfk/logo1-16-175117.png",
-          "url": "acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78"
+          "url": "acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb"
         }
       ]
     }
