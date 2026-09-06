@@ -8,22 +8,22 @@
   "stations": 
     [
        {
-          "name": "LA 1 FHD (720)(Elcano)",
-          "info": "[de8a8]",
+          "name": "La 1 TVE 720p **",
+          "info": "[]",
           "image": "https://i.ibb.co/swhGnw4/La1.jpg",
           "url": "acestream://02622fa2fab63847d88dc14fd9fa5c2fc35de8a8"
         },
         {
           "name": "La 2 TVE 1080p *",
-          "info": "[5798b]",
+          "info": "[]",
           "image": "https://i.postimg.cc/13XJ1k3Y/Logo-La2.png",
-          "url": "acestream://1acd38e6176c782f5184c8736e0cf7127b65798b"
+          "url": "acestream://b80cd193286a7df788c07649667c1e6f64fc9dc7"
         },
         {
-          "name": "ANTERNA 3 FHD (New Era)",
-          "info": "8496",
-          "image": "",
-          "url": "acestream://390b5b0fc49a811c5c5ebd6d195b08a48b1e8496"
+          "name": "La 2 TVE 1080p **",
+          "info": "[]",
+          "image": "https://i.postimg.cc/13XJ1k3Y/Logo-La2.png",
+          "url": "acestream://1acd38e6176c782f5184c8736e0cf7127b65798b"
         },
         {
           "name": "CUATRO TV",
@@ -61,14 +61,6 @@
           "image": "",
           "url": "acestream://1c6486082949172d1ffd318db8fb965dd5af7e31"
         },
-Teledeporte 720p **
-acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
-
-Teledeporte 1080p *
-acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
-
-Teledeporte 1080p **
-acestream://3b50a1dca0977e3761d016edd79314ab797f74f6
         {
           "name": "Teledeporte 720p **",
           "info": "[2e5ae]",
@@ -125,9 +117,9 @@ acestream://3b50a1dca0977e3761d016edd79314ab797f74f6
         },
         {
           "name": "Real Madrid TV 1080p *",
-          "info": "[b7be7]",
+          "info": "[]",
           "image": "https://i.postimg.cc/3NwHYDx6/logo-real-madrid.png",
-          "url": "acestream://ac353757b626cedc6461d8eb73bfffa15fbb7be7"
+          "url": "acestream://44ea3d00ee2abfd5d89792a32851d7af61f16f0a"
         }
       ]
     }
