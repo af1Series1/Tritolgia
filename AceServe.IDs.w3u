@@ -586,22 +586,22 @@
       "stations": 
       [
         {
-          "name": "LA 1 FHD (New Era)",
-          "info": "40ba",
+          "name": "La 1 TVE 720p **",
+          "info": "[]",
           "image": "https://i.ibb.co/swhGnw4/La1.jpg",
-          "url": "http://127.0.0.1:6878/ace/getstream?id=7597d4feb3195079ffa606cf23a183d626ee40ba"
+          "url": "http://127.0.0.1:6878/ace/getstream?id=02622fa2fab63847d88dc14fd9fa5c2fc35de8a8"
         },
         {
-          "name": "LA 1 FHD (New Era)",
+          "name": "La 2 TVE 1080p *",
           "info": "740c",
           "image": "https://i.ibb.co/swhGnw4/La1.jpg",
-          "url": "http://127.0.0.1:6878/ace/getstream?id=dad5e0e0825cb3e410008f1c4252387b868e740c"
+          "url": "http://127.0.0.1:6878/ace/getstream?id=b80cd193286a7df788c07649667c1e6f64fc9dc7"
         },
         {
-          "name": "LA 2 FHD (New Era)",
-          "info": "c2ed",
+          "name": "La 2 TVE 1080p **",
+          "info": "[]",
           "image": "https://i.postimg.cc/13XJ1k3Y/Logo-La2.png",
-          "url": "http://127.0.0.1:6878/ace/getstream?id=9934906503661142f97a044ae1509a294057c2ed"
+          "url": "http://127.0.0.1:6878/ace/getstream?id=1acd38e6176c782f5184c8736e0cf7127b65798b"
         },
         {
           "name": "ANTERNA 3 FHD (New Era)",
