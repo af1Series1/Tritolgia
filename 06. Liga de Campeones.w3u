@@ -8,6 +8,12 @@
   "stations": 
 	[
        {
+          "name": "M+ Liga de Campeones 720p *",
+          "info": "[]",
+          "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://931fd4c24398a24beb9b6ede856ca34339ff2c22"
+        },
+        {
           "name": "M+ Liga de Campeones 720p **",
           "info": "[]",
           "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
@@ -17,7 +23,13 @@
           "name": "M+ Liga de Campeones 1080p *",
           "info": "[]",
           "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
-          "url": "97df5b7824948972d041d8ca2a4d29c90b641bc9"
+          "url": "acestream://91af434b0bb521189286f8cbbab1aed39d7536fe"
+        },
+        {
+          "name": "M+ Liga de Campeones 1080p *",
+          "info": "[]",
+          "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9"
         },
         {
           "name": "M+ Liga de Campeones 1080p **",
