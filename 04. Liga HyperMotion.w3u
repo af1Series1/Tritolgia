@@ -26,10 +26,28 @@
           "url": "acestream://e4cbd1a425120b1f44b523a55bd1a98c31cad9fe"
         },
         {
+          "name": "LaLiga TV Hypermotion 2 1080p **",
+          "info": "[]",
+          "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
+          "url": "acestream://a5b9d834ad92bfb80fe01bf89cc20bd68be199fb"
+        },
+        {
           "name": "LaLiga TV Hypermotion 3 1080p *",
           "info": "[]",
           "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
           "url": "acestream://7efe62956b1f395161e217df1f438c8bf0d4416b"
+        },
+        {
+          "name": "LaLiga TV Hypermotion 3 **",
+          "info": "[]",
+          "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
+          "url": "acestream://589dfc625c0ddcd9960e40aaf8235ea58705f784"
+        },
+        {
+          "name": "LaLiga TV Hypermotion 10 **",
+          "info": "[]",
+          "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
+          "url": "acestream://11ede21d726b3ac051a366960c6e89eec3c807b6"
         }
       ]
 }
