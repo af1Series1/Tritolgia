@@ -652,28 +652,34 @@
       "stations": 
       [
         {
-          "name": "Dazn MotoGP 720p *",
-          "info": "[]",
-          "image": "https://i.postimg.cc/ZKTPyNjD/logo2-28-91831.png",
-          "url": "http://127.0.0.1:6878/ace/getstream?id=ac33342ccf7d40d46174229085461d95000b9137"
-        },
-        {
           "name": "Dazn MotoGP 1080p *",
-          "info": "[]",
-          "image": "https://i.postimg.cc/ZKTPyNjD/logo2-28-91831.png",
-          "url": "http://127.0.0.1:6878/ace/getstream?id=e18b79bce27f6ee8eef9a1fc811bb5f80e4b558c"
-        },
-        {
-          "name": "Dazn MotoGP 1080p **",
           "info": "[]",
           "image": "https://i.postimg.cc/ZKTPyNjD/logo2-28-91831.png",
           "url": "http://127.0.0.1:6878/ace/getstream?id=342ca6975a4884d81f9fec5c4085a47060bd2028"
         },
         {
-          "name": "Dazn MotoGP 1080p **",
+          "name": "Dazn MotoGP 1080p *",
+          "info": "[]",
+          "image": "https://i.postimg.cc/ZKTPyNjD/logo2-28-91831.png",
+          "url": "http://127.0.0.1:6878/ace/getstream?id=b18dda520e112e48a33d6d0ae558681b9ecfbb4d"
+        },
+        {
+          "name": "Dazn MotoGP 1080p *",
           "info": "[]",
           "image": "https://i.postimg.cc/ZKTPyNjD/logo2-28-91831.png",
           "url": "http://127.0.0.1:6878/ace/getstream?id=c53bdb3be55d12c5188d25085f1bb16911c15cea"
+        },
+        {
+          "name": "Dazn MotoGP 1080p **",
+          "info": "[]",
+          "image": "https://i.postimg.cc/ZKTPyNjD/logo2-28-91831.png",
+          "url": "http://127.0.0.1:6878/ace/getstream?id=e18b79bce27f6ee8eef9a1fc811bb5f80e4b558c"
+        },
+        {
+          "name": "Sky Sport MotoGP 1080p **",
+          "info": "[]",
+          "image": "https://i.postimg.cc/ZKTPyNjD/logo2-28-91831.png",
+          "url": "http://127.0.0.1:6878/ace/getstream?id=063ee4ffa4676940f14a85e24f928cc1c9d6ae2d"
         }
       ]
     },
