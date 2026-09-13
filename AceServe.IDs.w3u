@@ -237,7 +237,7 @@
           "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
           "url": "http://127.0.0.1:6878/ace/getstream?id=b63fcadc2390455d8a328f6c16b8b0a9adec21a3"
         },
-        {
+       {
           "name": "M+ LaLiga 720p *",
           "info": "[]",
           "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
@@ -274,6 +274,12 @@
           "url": "http://127.0.0.1:6878/ace/getstream?id=3ce95bc9d6fc63676d828bb2cfc7a1f1854fd259"
         },
         {
+          "name": "M+ LaLiga 1080p **",
+          "info": "[]",
+          "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
+          "url": "http://127.0.0.1:6878/ace/getstream?id=/0febfb5cac3384f487d55c559bbfc877db2d0357"
+        },
+        {
           "name": "M+ LaLiga 2 720p *",
           "info": "[]",
           "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
@@ -284,6 +290,18 @@
           "info": "[]",
           "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
           "url": "http://127.0.0.1:6878/ace/getstream?id=67966d205968de9cf95dcffe3b2ff6888b106634"
+        },
+        {
+          "name": "M+ LaLiga 3 720p *",
+          "info": "[]",
+          "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
+          "url": "http://127.0.0.1:6878/ace/getstream?id=7a8c26ece4d1ce106225a2bc66260f6a5b9be913"
+        },
+        {
+          "name": "M+ LaLiga 3 1080p *",
+          "info": "[]",
+          "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
+          "url": "http://127.0.0.1:6878/ace/getstream?id=7bd9d072b65919352bda907b472961641e6e2930"
         }
       ]
     },
