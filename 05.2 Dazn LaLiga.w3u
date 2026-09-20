@@ -14,12 +14,6 @@
           "url": "acestream://385abcf801b787eec6ed6624908758bb165c0a55"
         },
         {
-          "name": "DAZN LaLiga 2 720p **",
-          "info": "[]",
-          "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
-          "url": "acestream://eb4975702ceadca7ed74f8707e17a9f55569dbb9"
-        },
-        {
           "name": "DAZN LaLiga 1080p *",
           "info": "[]",
           "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
@@ -30,6 +24,12 @@
           "info": "[]",
           "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
           "url": "acestream://cc108ae39f92c48f6c946763047bd1c9b7b7d889"
+        },
+        {
+          "name": "DAZN LaLiga 2 720p **",
+          "info": "[]",
+          "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+          "url": "acestream://eb4975702ceadca7ed74f8707e17a9f55569dbb9"
         },
         {
           "name": "DAZN LaLiga 2 1080p **",
