@@ -8,25 +8,19 @@
 "stations":  
       [
         {
-          "name": "DAZN LaLiga **",
-          "info": "[]",
-          "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
-          "url": "acestream://9c75f1d190c518cfe0f236415b8dccc1f676ef3b"
-        },
-        {
-          "name": "DAZN LaLiga 720p *",
+          "name": "DAZN LaLiga 720 *",
           "info": "[]",
           "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
           "url": "acestream://eb4975702ceadca7ed74f8707e17a9f55569dbb9"
         },
         {
-          "name": "DAZN LaLiga 1080p *",
+          "name": "DAZN LaLiga 720p **",
           "info": "[]",
           "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
-          "url": "acestream://7f9857c45764ef2c7cdfb619b89db3056a57a51f"
+          "url": "acestream://385abcf801b787eec6ed6624908758bb165c0a55"
         },
         {
-          "name": "DAZN LaLiga 1080p **",
+          "name": "DAZN LaLiga 1080p *",
           "info": "[]",
           "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
           "url": "acestream://9c588ac92554746c489bc553773d959f6d2dfd8e"
@@ -48,6 +42,12 @@
           "info": "[]",
           "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
           "url": "acestream://465075c02b7284f564911bd63d1c6f0a8d464be7"
+        },
+        {
+          "name": "DAZN LaLiga **",
+          "info": "[]",
+          "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+          "url": "acestream://9c75f1d190c518cfe0f236415b8dccc1f676ef3b"
         }
       ]
     }
