@@ -8,25 +8,31 @@
   "stations": 
 	[
          {
-          "name": "DAZN F1 720p *",
+          "name": "DAZN F1 720p **",
           "info": "[]",
           "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png",
-          "url": "acestream://20086a76248efe8d5230c15d41c69bae8fa6381c"
+          "url": "acestream://f16d68fa5ff64f3894a45062ca28e4e66f142c6a"
         },
         {
           "name": "DAZN F1 720p **",
           "info": "[]",
           "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png",
-          "url": "acestream://27d11bbeb3026231d52de16b1fac48da7a099247"
+          "url": "acestream://20086a76248efe8d5230c15d41c69bae8fa6381c"
         },
         {
           "name": "DAZN F1 1080p *",
           "info": "[]",
           "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png",
-          "url": "acestream://02be332ebead0484a5354fa25e97b6833b8b129e"
+          "url": "acestream://d719181097d256073844390b3e094fbcb1bceaa4"
         },
         {
-          "name": "DAZN F1 1080p *",
+          "name": "DAZN F1 1080p **",
+          "info": "[]",
+          "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png",
+          "url": "acestream://0a81ba020d498aca1248e0591d8ffab99eb80bd4"
+        },
+        {
+          "name": "DAZN F1 1080p **",
           "info": "[]",
           "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png",
           "url": "acestream://f8b0eae8fda973cf426311541d1668aa592f0a8c"
@@ -35,7 +41,7 @@
           "name": "DAZN F1 1080p **",
           "info": "[]",
           "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png",
-          "url": "acestream://895d08633bb22c2573281655cf3ca44de476cc73"
+          "url": "acestream://02be332ebead0484a5354fa25e97b6833b8b129e"
         }
       ]
     }
