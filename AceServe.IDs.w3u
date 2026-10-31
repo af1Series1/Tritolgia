@@ -10,7 +10,8 @@
         {
             "name": "BALONCESTO",
             "image": "https://i.postimg.cc/Pxw6rKNp/logo1-25-123055.png",
-            "stations": [
+            "stations": 
+            [
                 {
                     "name": "DAZN Baloncesto 720p *",
                     "image": "https://i.postimg.cc/Pxw6rKNp/logo1-25-123055.png",
@@ -46,7 +47,8 @@
         {
             "name": "DAZN",
             "image": "https://i.postimg.cc/g0kVtxxx/logo1-17-10546-removebg-preview.png",
-            "stations": [
+            "stations": 
+            [
                 {
                     "name": "DAZN 1 720p *",
                     "image": "https://i.postimg.cc/g0kVtxxx/logo1-17-10546-removebg-preview.png",
