@@ -171,11 +171,11 @@
         },
         {
             "name": "NBA",
-            "image": "",
+            "image": "https://i.postimg.cc/SKjPkzTN/Logo-NBA.png",
             "stations": [
                 {
                     "name": "NBA League Pass 1080p",
-                    "image": "",
+                    "image": "https://i.postimg.cc/SKjPkzTN/Logo-NBA.png",
                     "url": "http://127.0.0.1:6878/ace/getstream?id=e70a62fd486ce0d4970bec6849023c781efb7c31",
                     "info": ""
                 }
