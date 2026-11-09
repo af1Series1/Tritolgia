@@ -134,13 +134,13 @@
                 {
                     "name": "M+ VAMOS 3 1080p *",
                     "image": "https://i.postimg.cc/rmxMT8Rg/Logo-M-Deportes.png",
-                    "url": "http://127.0.0.1:6878/ace/getstream?id=8d752ceceaa26b063d8edfa9c70352ada62c424d",
+                    "url": "http://127.0.0.1:6878/ace/getstream?id=30de10517ae304747a56addc1dfba2e963852e52",
                     "info": ""
                 },
                 {
                     "name": "M+ VAMOS 3 1080p *",
                     "image": "https://i.postimg.cc/rmxMT8Rg/Logo-M-Deportes.png",
-                    "url": "http://127.0.0.1:6878/ace/getstream?id=30de10517ae304747a56addc1dfba2e963852e52",
+                    "url": "http://127.0.0.1:6878/ace/getstream?id=8d752ceceaa26b063d8edfa9c70352ada62c424d",
                     "info": ""
                 },
                 {
@@ -206,13 +206,13 @@
                 {
                     "name": "A Punt 1080p **",
                     "image": "https://i.postimg.cc/BnGM4SQC/logo10-31-14448.png",
-                    "url": "http://127.0.0.1:6878/ace/getstream?id=89b7355df8e8a8f78c9d6e849b012c608d53a19c",
+                    "url": "http://127.0.0.1:6878/ace/getstream?id=7bbdc53c4e9aac708d95506fc90f2f0e1aeb14ed",
                     "info": ""
                 },
                 {
                     "name": "A Punt 1080p **",
                     "image": "https://i.postimg.cc/BnGM4SQC/logo10-31-14448.png",
-                    "url": "http://127.0.0.1:6878/ace/getstream?id=7bbdc53c4e9aac708d95506fc90f2f0e1aeb14ed",
+                    "url": "http://127.0.0.1:6878/ace/getstream?id=89b7355df8e8a8f78c9d6e849b012c608d53a19c",
                     "info": ""
                 },
                 {
@@ -320,13 +320,13 @@
                 {
                     "name": "À Punt 1080p *",
                     "image": "https://i.postimg.cc/BnGM4SQC/logo10-31-14448.png",
-                    "url": "http://127.0.0.1:6878/ace/getstream?id=ef25b41f997bb669b8642b6f10c000aadf392b53",
+                    "url": "http://127.0.0.1:6878/ace/getstream?id=a372ae717311073dde725c16f7faf38f04880fbd",
                     "info": ""
                 },
                 {
                     "name": "À Punt 1080p *",
                     "image": "https://i.postimg.cc/BnGM4SQC/logo10-31-14448.png",
-                    "url": "http://127.0.0.1:6878/ace/getstream?id=a372ae717311073dde725c16f7faf38f04880fbd",
+                    "url": "http://127.0.0.1:6878/ace/getstream?id=ef25b41f997bb669b8642b6f10c000aadf392b53",
                     "info": ""
                 }
             ]
