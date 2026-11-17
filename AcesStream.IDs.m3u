@@ -18,16 +18,22 @@
 acestream://81726596472933c3dfc9b3cd31fef7d0716c8ba4
 #EXTINF:-1 tvg-id="DAZN Baloncesto" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2025/12/dazn-baloncesto-movistar-plus.png" group-title="BALONCESTO",DAZN Baloncesto 1080p **
 acestream://e1e543b882178ea985f27285ec87c698d6553027
+#EXTINF:-1 tvg-id="DAZN Baloncesto" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2025/12/dazn-baloncesto-movistar-plus.png" group-title="BALONCESTO",DAZN Baloncesto 1080p **
+acestream://535b353f94a275ca60ab176c0633ecbb561b41f2
 #EXTINF:-1 tvg-id="DAZN Baloncesto 2" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2025/12/dazn-baloncesto-movistar-plus.png" group-title="BALONCESTO",DAZN Baloncesto 2 720p *
 acestream://99de2862eb671f858c7865c9cf5950e13e89eeba
-#EXTINF:-1 tvg-id="DAZN Baloncesto 3" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2025/12/dazn-baloncesto-movistar-plus.png" group-title="BALONCESTO",DAZN Baloncesto 3 720p *
-acestream://9a55697bb16e7b5352e7a82456e4e67a5690965e
+#EXTINF:-1 tvg-id="DAZN Baloncesto 2" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2025/12/dazn-baloncesto-movistar-plus.png" group-title="BALONCESTO",DAZN Baloncesto 2 1080p **
+acestream://ac457cdad9e0b4333cd3a385ac54dab0dce6d881
 #EXTINF:-1 tvg-id="DAZN Baloncesto 3" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2025/12/dazn-baloncesto-movistar-plus.png" group-title="BALONCESTO",DAZN Baloncesto 3 1080p **
 acestream://e4cc41e787e3f44bb766520a3b4b64e2baa5977c
 #EXTINF:-1 tvg-id="M+ Baloncesto" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2026/04/baloncesto-movistar-plus-canales.jpg" group-title="BALONCESTO",M+ Baloncesto 1080p *
 acestream://28360e214f0cae450e9aaa8753c5be455109188f
+#EXTINF:-1 tvg-id="M+ Baloncesto" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2026/04/baloncesto-movistar-plus-canales.jpg" group-title="BALONCESTO",M+ Baloncesto 1080p **
+acestream://31f2a257cd226d80339342c449d76339b4a1e6fa
 #EXTINF:-1 tvg-id="M+ Baloncesto 2" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2026/04/baloncesto-movistar-plus-canales.jpg" group-title="BALONCESTO",M+ Baloncesto 2 1080p *
 acestream://dce8628942410de57606a6849ab6be46de3f9458
+#EXTINF:-1 tvg-id="M+ Baloncesto 2" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2026/04/baloncesto-movistar-plus-canales.jpg" group-title="BALONCESTO",M+ Baloncesto 2 1080p **
+acestream://e3d6143ca8a9cd508653c9f9eeb305a9e2b46e5d
 #EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2026/04/baloncesto-movistar-plus-canales.jpg" group-title="BALONCESTO",M+ Baloncesto 3 1080p *
 acestream://54e1205da682d519fcc8ddeccff1626b8af86a6a
 #EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2026/04/baloncesto-movistar-plus-canales.jpg" group-title="BALONCESTO",M+ Baloncesto 3 1080p **
@@ -75,9 +81,9 @@ acestream://75898c06f71b867b147654912bb0db8a19d6086e
 #EXTINF:-1 tvg-id="M+ Vamos 2" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="MOVISTAR DEPORTES",M+ VAMOS 2 1080p *
 acestream://c04f1daf665ca4b6a8d1f6d552b2bffff1c839d3
 #EXTINF:-1 tvg-id="M+ Vamos 2" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="MOVISTAR DEPORTES",M+ VAMOS 2 1080p **
-acestream://22ed339fb4f878ab562a434d847dd7849736794f
-#EXTINF:-1 tvg-id="M+ Vamos 2" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="MOVISTAR DEPORTES",M+ VAMOS 2 1080p **
 acestream://bec179fcda0f5016821bcc97f34f407d86f128e6
+#EXTINF:-1 tvg-id="M+ Vamos 2" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="MOVISTAR DEPORTES",M+ VAMOS 2 1080p **
+acestream://22ed339fb4f878ab562a434d847dd7849736794f
 #EXTINF:-1 group-title="DEPORTES",A Punt 1080p **
 acestream://fb0f6e32e15857a821240abbed6da0379bed40dc
 #EXTINF:-1 tvg-id="Esport 3" tvg-logo="https://img.3cat.cat/multimedia/jpg/1/5/1697802708951.jpg" group-title="DEPORTES",Esport3 720p **
@@ -95,8 +101,8 @@ acestream://ad7a52a05039e95e73a334e9d4518832ff84f448
 #EXTINF:-1 tvg-logo="https://espnpressroom.com/us/files/2023/02/New-NBA-Logo.png" group-title="NBA",NBA ESPN 720p *
 acestream://c50472a723a9c8412dc51fc6ae2761e113014b00
 #EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/431-4310509_nba-league-pass-logo-png-transparent-nba-league.png" group-title="NBA",NBA League Pass 1080p *
-acestream://594d954ecc68f601040630de6671cd648e0964f6
-#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/431-4310509_nba-league-pass-logo-png-transparent-nba-league.png" group-title="NBA",NBA League Pass 1080p *
 acestream://cd7f8f210268b161f399c626cad5b02678f86f7f
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/431-4310509_nba-league-pass-logo-png-transparent-nba-league.png" group-title="NBA",NBA League Pass 1080p *
+acestream://594d954ecc68f601040630de6671cd648e0964f6
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1951065414118539266/9Go2oZlV_400x400.jpg" group-title="TENNIS",Sky Sport Tennis 1080p **
 acestream://a0adfe52f8a9275067d559debe17523c655975e5
