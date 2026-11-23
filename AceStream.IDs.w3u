@@ -12,15 +12,15 @@
             "image": "https://i.postimg.cc/Pxw6rKNp/logo1-25-123055.png",
             "stations": [
                 {
-                    "name": "DAZN Baloncesto 720p **",
+                    "name": "DAZN Baloncesto 1080p **",
                     "image": "https://i.postimg.cc/Pxw6rKNp/logo1-25-123055.png",
-                    "url": "acestream://81726596472933c3dfc9b3cd31fef7d0716c8ba4",
+                    "url": "acestream://3834a73b9e07c3d0485935407366d7acac52fdf0",
                     "info": ""
                 },
                 {
                     "name": "DAZN Baloncesto 1080p **",
                     "image": "https://i.postimg.cc/Pxw6rKNp/logo1-25-123055.png",
-                    "url": "acestream://e1e543b882178ea985f27285ec87c698d6553027",
+                    "url": "acestream://535b353f94a275ca60ab176c0633ecbb561b41f2",
                     "info": ""
                 },
                 {
@@ -30,27 +30,15 @@
                     "info": ""
                 },
                 {
-                    "name": "DAZN Baloncesto 2 1080p **",
-                    "image": "https://i.postimg.cc/Pxw6rKNp/logo1-25-123055.png",
-                    "url": "acestream://ac457cdad9e0b4333cd3a385ac54dab0dce6d881",
-                    "info": ""
-                },
-                {
                     "name": "DAZN Baloncesto 3 720p *",
                     "image": "https://i.postimg.cc/Pxw6rKNp/logo1-25-123055.png",
                     "url": "acestream://9a55697bb16e7b5352e7a82456e4e67a5690965e",
                     "info": ""
                 },
                 {
-                    "name": "DAZN Baloncesto 3 1080p **",
+                    "name": "M+ Baloncesto 1080p *",
                     "image": "https://i.postimg.cc/Pxw6rKNp/logo1-25-123055.png",
-                    "url": "acestream://e4cc41e787e3f44bb766520a3b4b64e2baa5977c",
-                    "info": ""
-                },
-                {
-                    "name": "M+ Baloncesto 1080p **",
-                    "image": "https://i.postimg.cc/Pxw6rKNp/logo1-25-123055.png",
-                    "url": "acestream://31f2a257cd226d80339342c449d76339b4a1e6fa",
+                    "url": "acestream://d9e468180fcd3dcd45141dc09f56ea21eb88912e",
                     "info": ""
                 },
                 {
@@ -66,27 +54,9 @@
                     "info": ""
                 },
                 {
-                    "name": "M+ Baloncesto 4 1080p *",
-                    "image": "https://i.postimg.cc/Pxw6rKNp/logo1-25-123055.png",
-                    "url": "acestream://d2b46901e81e835371df1e07c1cc15699b46ed52",
-                    "info": ""
-                },
-                {
-                    "name": "M+ Baloncesto 4 1080p **",
-                    "image": "https://i.postimg.cc/Pxw6rKNp/logo1-25-123055.png",
-                    "url": "acestream://a480728284f91ea3dc2a0b710f40b0e42a44dc43",
-                    "info": ""
-                },
-                {
                     "name": "M+ Baloncesto 5 1080p *",
                     "image": "https://i.postimg.cc/Pxw6rKNp/logo1-25-123055.png",
                     "url": "acestream://28360e214f0cae450e9aaa8753c5be455109188f",
-                    "info": ""
-                },
-                {
-                    "name": "M+ Baloncesto 5 1080p **",
-                    "image": "https://i.postimg.cc/Pxw6rKNp/logo1-25-123055.png",
-                    "url": "acestream://51a3f692514fb9ef9541700da54fb8d8cc1d546d",
                     "info": ""
                 }
             ]
@@ -96,6 +66,18 @@
             "image": "https://i.postimg.cc/g0kVtxxx/logo1-17-10546-removebg-preview.png",
             "stations": [
                 {
+                    "name": "DAZN 1 720p *",
+                    "image": "https://i.postimg.cc/g0kVtxxx/logo1-17-10546-removebg-preview.png",
+                    "url": "acestream://8d1d49d3cd1f693f7822e16b9fa0211dfd50bc93",
+                    "info": ""
+                },
+                {
+                    "name": "DAZN 1 720p **",
+                    "image": "https://i.postimg.cc/g0kVtxxx/logo1-17-10546-removebg-preview.png",
+                    "url": "acestream://7482eec330fe108c6e00be3558e527f404f73478",
+                    "info": ""
+                },
+                {
                     "name": "DAZN 1 1080p *",
                     "image": "https://i.postimg.cc/g0kVtxxx/logo1-17-10546-removebg-preview.png",
                     "url": "acestream://626f30abf7243049bbb9035218784265976d3108",
@@ -104,13 +86,7 @@
                 {
                     "name": "DAZN 1 1080p **",
                     "image": "https://i.postimg.cc/g0kVtxxx/logo1-17-10546-removebg-preview.png",
-                    "url": "acestream://bf63a4c8b96f3f75100c6863368bb142d6c67633",
-                    "info": ""
-                },
-                {
-                    "name": "DAZN 2 720p **",
-                    "image": "https://i.postimg.cc/g0kVtxxx/logo1-17-10546-removebg-preview.png",
-                    "url": "acestream://9b02402621c83b8b68f1d83a7bbb1b972b4abe5e",
+                    "url": "acestream://2f92b9ad901d49f651e1d383a032298d8c8b016a",
                     "info": ""
                 },
                 {
@@ -122,13 +98,25 @@
                 {
                     "name": "DAZN 2 1080p **",
                     "image": "https://i.postimg.cc/g0kVtxxx/logo1-17-10546-removebg-preview.png",
-                    "url": "acestream://55616eb11715c5ce83659f28e3aa191f95ff7cef",
+                    "url": "acestream://247a20c5a4234a37bb91e122561344e1c34d546d",
+                    "info": ""
+                },
+                {
+                    "name": "DAZN 3 1080p *",
+                    "image": "https://i.postimg.cc/g0kVtxxx/logo1-17-10546-removebg-preview.png",
+                    "url": "acestream://2e1caadc982c7d82c05fc9bf9b9627a8c4540e42",
                     "info": ""
                 },
                 {
                     "name": "DAZN 3 1080p **",
                     "image": "https://i.postimg.cc/g0kVtxxx/logo1-17-10546-removebg-preview.png",
                     "url": "acestream://21613b7686a0f8db244638039aa019ccac877005",
+                    "info": ""
+                },
+                {
+                    "name": "DAZN 4 **",
+                    "image": "https://i.postimg.cc/g0kVtxxx/logo1-17-10546-removebg-preview.png",
+                    "url": "acestream://9dd4b30d802b47bfa1543e6d6f047b620c3658e2",
                     "info": ""
                 }
             ]
@@ -150,21 +138,9 @@
                     "info": ""
                 },
                 {
-                    "name": "Eurosport 2 720p **",
-                    "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png",
-                    "url": "acestream://d112480e15f19b3c93120402f70792c5e12fa712",
-                    "info": ""
-                },
-                {
                     "name": "Eurosport 2 1080p *",
                     "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png",
                     "url": "acestream://196a1dd0363a0883d9d1b1c0f703f2cfe0df99b7",
-                    "info": ""
-                },
-                {
-                    "name": "Eurosport 2 1080p **",
-                    "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png",
-                    "url": "acestream://ac004f316e3f76c5ec924d0c873bedea2280cc5c",
                     "info": ""
                 }
             ]
@@ -174,9 +150,9 @@
             "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png",
             "stations": [
                 {
-                    "name": "DAZN F1 720p *",
+                    "name": "DAZN F1 720p **",
                     "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png",
-                    "url": "acestream://9769aadd250b0701c0bcda94a407f9a2bcc9e207",
+                    "url": "acestream://a1dced3b6b752b0964129491bf7d6572b19bd5af",
                     "info": ""
                 },
                 {
@@ -186,15 +162,9 @@
                     "info": ""
                 },
                 {
-                    "name": "DAZN F1 1080p *",
-                    "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png",
-                    "url": "acestream://9944d8bef913ec380e11bec0ea7d565f449604c6",
-                    "info": ""
-                },
-                {
                     "name": "DAZN F1 1080p **",
                     "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png",
-                    "url": "acestream://9b1fa0be70ab0bcc78182631d2bff80ade31e940",
+                    "url": "acestream://db27f7b24b99befb865fa1054132c64fc006b4c1",
                     "info": ""
                 },
                 {
@@ -228,27 +198,9 @@
                     "info": ""
                 },
                 {
-                    "name": "LaLiga TV Hypermotion 2 720p *",
+                    "name": "LaLiga TV Hypermotion *",
                     "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
-                    "url": "acestream://08d86e516b881ef67fc8a92cbb8b4d7da37a5651",
-                    "info": ""
-                },
-                {
-                    "name": "LaLiga TV Hypermotion 2 1080p *",
-                    "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
-                    "url": "acestream://829f45b540b58fce31ccfdde1fbfff723b1715ed",
-                    "info": ""
-                },
-                {
-                    "name": "LaLiga TV Hypermotion 2 1080p **",
-                    "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
-                    "url": "acestream://93927c37f60221f66e7421c7ae96aead7b353bab",
-                    "info": ""
-                },
-                {
-                    "name": "LaLiga TV Hypermotion 3 1080p **",
-                    "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
-                    "url": "acestream://f18ad0066d5b194782d383bdd5abd830b2e7c168",
+                    "url": "acestream://1285fbe392b67c3fbc2284fcef8094d06c65eee5",
                     "info": ""
                 }
             ]
@@ -257,12 +209,6 @@
             "name": "LA LIGA",
             "image": "https://i.postimg.cc/NM8kNBZq/La-Liga-New.png",
             "stations": [
-                {
-                    "name": "DAZN LaLiga 720p *",
-                    "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
-                    "url": "acestream://aac92415626c18a3adbdd0ba1ac77ad076741fcf",
-                    "info": ""
-                },
                 {
                     "name": "DAZN LaLiga 720p **",
                     "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
@@ -273,6 +219,24 @@
                     "name": "DAZN LaLiga 1080p *",
                     "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
                     "url": "acestream://7f11f3366b520f71adedddf6ff1ad70362cc6a65",
+                    "info": ""
+                },
+                {
+                    "name": "DAZN LaLiga 1080p **",
+                    "image": "https://i.postimg.cc/NM8kNBZq/La-Liga-New.png",
+                    "url": "acestream://8bab8645432567ed754b9e1fc9e52b1c468505c0",
+                    "info": ""
+                },
+                {
+                    "name": "DAZN LaLiga 1080p **",
+                    "image": "https://i.postimg.cc/NM8kNBZq/La-Liga-New.png",
+                    "url": "acestream://5103030e741d2ad44293b8767b739eaf48035d62",
+                    "info": ""
+                },
+                {
+                    "name": "DAZN LaLiga 2 720p *",
+                    "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+                    "url": "acestream://04b0e03720e79a44f5d82a60d9993295a517e997",
                     "info": ""
                 },
                 {
@@ -294,9 +258,15 @@
                     "info": ""
                 },
                 {
-                    "name": "M+ LaLiga 720p *",
+                    "name": "DAZN LaLiga 3 1080p *",
                     "image": "https://i.postimg.cc/NM8kNBZq/La-Liga-New.png",
-                    "url": "acestream://18b5d3d96b259a772d2ef4817fe6983e111ae6a9",
+                    "url": "acestream://4286c31e11c2fb971082576e3c12874f11f43fab",
+                    "info": ""
+                },
+                {
+                    "name": "DAZN LaLiga **",
+                    "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+                    "url": "acestream://d2313a40320aa2ebc2ec16409e8fd2344357efe9",
                     "info": ""
                 },
                 {
@@ -312,9 +282,9 @@
                     "info": ""
                 },
                 {
-                    "name": "M+ LaLiga 1080p *",
+                    "name": "M+ LaLiga 1080p **",
                     "image": "https://i.postimg.cc/NM8kNBZq/La-Liga-New.png",
-                    "url": "acestream://2c90acc97a9d80dbaa5c13efaff0967a57aa31bd",
+                    "url": "acestream://aa1e23b2456bcee1eebaae19dc222fe8827375f7",
                     "info": ""
                 },
                 {
@@ -324,39 +294,21 @@
                     "info": ""
                 },
                 {
-                    "name": "M+ LaLiga 1080p **",
-                    "image": "https://i.postimg.cc/NM8kNBZq/La-Liga-New.png",
-                    "url": "acestream://aa1e23b2456bcee1eebaae19dc222fe8827375f7",
-                    "info": ""
-                },
-                {
-                    "name": "M+ LaLiga 1080p **",
-                    "image": "https://i.postimg.cc/NM8kNBZq/La-Liga-New.png",
-                    "url": "acestream://a6c284e70d65e82171536ba58d8457e2c6fe6ff2",
-                    "info": ""
-                },
-                {
-                    "name": "M+ LaLiga 2 1080p **",
-                    "image": "https://i.postimg.cc/NM8kNBZq/La-Liga-New.png",
-                    "url": "acestream://10f8b302cc3b2eb96ee53130286988f07845467a",
-                    "info": ""
-                },
-                {
-                    "name": "M+ LaLiga 2 *",
-                    "image": "https://i.postimg.cc/NM8kNBZq/La-Liga-New.png",
-                    "url": "acestream://2edbaced018a9b39fd66c695a0bdca5d9d54f667",
-                    "info": ""
-                },
-                {
                     "name": "M+ LaLiga 3 720p **",
                     "image": "https://i.postimg.cc/NM8kNBZq/La-Liga-New.png",
                     "url": "acestream://0f7f38b18839697ff23a3a50b692a37c7b20527a",
                     "info": ""
                 },
                 {
-                    "name": "M+ LaLiga 3 1080p **",
+                    "name": "M+ LaLiga 3 1080p *",
                     "image": "https://i.postimg.cc/NM8kNBZq/La-Liga-New.png",
-                    "url": "acestream://ee143cc1cc38fc76a9a3ee3842d1d8ec0960eda9",
+                    "url": "acestream://86a3d8038f6ead781fc669c3b5e342a8f0809edd",
+                    "info": ""
+                },
+                {
+                    "name": "M+ LaLiga 3 *",
+                    "image": "https://i.postimg.cc/NM8kNBZq/La-Liga-New.png",
+                    "url": "acestream://c394d64ef14838f00d89f8edff5f60ffd883034f",
                     "info": ""
                 }
             ]
@@ -366,15 +318,9 @@
             "image": "https://i.postimg.cc/NFLRGSbF/logo-champions.png",
             "stations": [
                 {
-                    "name": "M+ Liga de Campeones 720p *",
+                    "name": "M+ Liga de Campeones 1080p *",
                     "image": "https://i.postimg.cc/NFLRGSbF/logo-champions.png",
-                    "url": "acestream://7d7a40296ff7ee8d842ba36ff3bfd50a0aec9ddf",
-                    "info": ""
-                },
-                {
-                    "name": "M+ Liga de Campeones 720p **",
-                    "image": "https://i.postimg.cc/NFLRGSbF/logo-champions.png",
-                    "url": "acestream://463c956dd6bf90bf91583752e0c633511e45a9e9",
+                    "url": "acestream://cac54759f6353a4a8fc5b6ec84849bc50b048193",
                     "info": ""
                 },
                 {
@@ -384,9 +330,9 @@
                     "info": ""
                 },
                 {
-                    "name": "M+ Liga de Campeones 2 1080p *",
+                    "name": "M+ Liga de Campeones 2 720p *",
                     "image": "https://i.postimg.cc/NFLRGSbF/logo-champions.png",
-                    "url": "acestream://935afe310d3d04e88eafbb279cc6e2739140107c",
+                    "url": "acestream://71ca00c9df974de359209bc9e1f6c31dc16f4150",
                     "info": ""
                 },
                 {
@@ -396,33 +342,9 @@
                     "info": ""
                 },
                 {
-                    "name": "M+ Liga de Campeones 3 720p **",
-                    "image": "https://i.postimg.cc/NFLRGSbF/logo-champions.png",
-                    "url": "acestream://6b4bbb1d4b8b8687330a1954b3692274517748f7",
-                    "info": ""
-                },
-                {
                     "name": "M+ Liga de Campeones 3 1080p **",
                     "image": "https://i.postimg.cc/NFLRGSbF/logo-champions.png",
                     "url": "acestream://08c3670fbbee3ee7a06642b72d45e9eb3408da4f",
-                    "info": ""
-                },
-                {
-                    "name": "M+ Liga de Campeones 4 1080p *",
-                    "image": "https://i.postimg.cc/NFLRGSbF/logo-champions.png",
-                    "url": "acestream://c6e038aa3938b4f6a58a212a08b324851a361048",
-                    "info": ""
-                },
-                {
-                    "name": "M+ Liga de Campeones 5 1080p **",
-                    "image": "https://i.postimg.cc/NFLRGSbF/logo-champions.png",
-                    "url": "acestream://82247d8df244252a2ba9152ab946fb17533905b9",
-                    "info": ""
-                },
-                {
-                    "name": "M+ Liga de Campeones 5 1080p **",
-                    "image": "https://i.postimg.cc/NFLRGSbF/logo-champions.png",
-                    "url": "acestream://860392c455d7cd2b1664ed6c95a8aa22ee869023",
                     "info": ""
                 },
                 {
@@ -432,27 +354,9 @@
                     "info": ""
                 },
                 {
-                    "name": "M+ Liga de Campeones 6 1080p **",
+                    "name": "M+ Liga de Campeones 8 1080p *",
                     "image": "https://i.postimg.cc/NFLRGSbF/logo-champions.png",
-                    "url": "acestream://397c68de2443c08089a7a699d3f0707b96299d4c",
-                    "info": ""
-                },
-                {
-                    "name": "M+ Liga de Campeones 7 1080p *",
-                    "image": "https://i.postimg.cc/NFLRGSbF/logo-champions.png",
-                    "url": "acestream://93402a76024868654e2c7ba5e7d2b376721767f4",
-                    "info": ""
-                },
-                {
-                    "name": "M+ Liga de Campeones 7 1080p **",
-                    "image": "https://i.postimg.cc/NFLRGSbF/logo-champions.png",
-                    "url": "acestream://d3d4b18229abe086af08097a250615458a04e95e",
-                    "info": ""
-                },
-                {
-                    "name": "M+ Liga de Campeones 9 1080p **",
-                    "image": "https://i.postimg.cc/NFLRGSbF/logo-champions.png",
-                    "url": "acestream://1f528ed789f615ceccb4f878634ea2b767ec7442",
+                    "url": "acestream://f57b01f2507e4ec4fad3cd81aece503d185120a7",
                     "info": ""
                 }
             ]
@@ -504,21 +408,9 @@
                     "info": ""
                 },
                 {
-                    "name": "M+ Deportes 2 720p **",
+                    "name": "M+ Deportes 3 720p *",
                     "image": "https://i.postimg.cc/rmxMT8Rg/Logo-M-Deportes.png",
-                    "url": "acestream://b9914c456b60655f6997e1e0b85cffb19975d888",
-                    "info": ""
-                },
-                {
-                    "name": "M+ Deportes 2 1080p *",
-                    "image": "https://i.postimg.cc/rmxMT8Rg/Logo-M-Deportes.png",
-                    "url": "acestream://a38ca9c4f4b488112daef66104df45a05a9fb9ad",
-                    "info": ""
-                },
-                {
-                    "name": "M+ Deportes 2 1080p **",
-                    "image": "https://i.postimg.cc/rmxMT8Rg/Logo-M-Deportes.png",
-                    "url": "acestream://6b556144b907286ddc6dc071ecf7362b0fab5f78",
+                    "url": "acestream://6ee61c2b5b3e068b06ced9ce1dde5062af7d4d7e",
                     "info": ""
                 },
                 {
@@ -540,9 +432,15 @@
                     "info": ""
                 },
                 {
-                    "name": "M+ Deportes 5 1080p **",
+                    "name": "M+ Deportes 5 1080p *",
                     "image": "https://i.postimg.cc/rmxMT8Rg/Logo-M-Deportes.png",
-                    "url": "acestream://770c89e46a912758cfcc80ecd5a97c4dd0dfe734",
+                    "url": "acestream://34af0440966d3e581718dbe26ff87e868bcacfe6",
+                    "info": ""
+                },
+                {
+                    "name": "M+ Deportes 6 1080p *",
+                    "image": "https://i.postimg.cc/rmxMT8Rg/Logo-M-Deportes.png",
+                    "url": "acestream://9b82a0bff26742b2d207dba0d200be5de5e3b43f",
                     "info": ""
                 },
                 {
@@ -552,9 +450,9 @@
                     "info": ""
                 },
                 {
-                    "name": "M+ Deportes 7 1080p **",
+                    "name": "M+ Deportes 7 1080p *",
                     "image": "https://i.postimg.cc/rmxMT8Rg/Logo-M-Deportes.png",
-                    "url": "acestream://718323ef5595bf0e6c4f71f4354fcdcaeb018c82",
+                    "url": "acestream://a9ad43cc44c582584feb87dea04179517a3d8460",
                     "info": ""
                 },
                 {
@@ -564,15 +462,15 @@
                     "info": ""
                 },
                 {
-                    "name": "M+ Golf 2 1080p *",
+                    "name": "M+ Golf 1080p *",
                     "image": "https://i.postimg.cc/yx9c39GB/logo1-17-10417-removebg-preview.png",
-                    "url": "acestream://ed56c29a9e2d373d6adb0d71456d8bd72506c143",
+                    "url": "acestream://dd41423912d132c67cd7281cbf6b45cee13de385",
                     "info": ""
                 },
                 {
-                    "name": "M+ Vamos 720p *",
-                    "image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
-                    "url": "acestream://27197daae8ce31d03ad69c1ac189333ec608150b",
+                    "name": "M+ Golf 2 1080p *",
+                    "image": "https://i.postimg.cc/yx9c39GB/logo1-17-10417-removebg-preview.png",
+                    "url": "acestream://ed56c29a9e2d373d6adb0d71456d8bd72506c143",
                     "info": ""
                 },
                 {
@@ -582,9 +480,15 @@
                     "info": ""
                 },
                 {
-                    "name": "M+ Vamos 1080p **",
+                    "name": "M+ VAMOS 2 720p *",
                     "image": "https://i.postimg.cc/rmxMT8Rg/Logo-M-Deportes.png",
-                    "url": "acestream://9b7fc5f95b281a9a3370f71a8fe5a375c4655abb",
+                    "url": "acestream://75898c06f71b867b147654912bb0db8a19d6086e",
+                    "info": ""
+                },
+                {
+                    "name": "M+ VAMOS 2 1080p *",
+                    "image": "https://i.postimg.cc/rmxMT8Rg/Logo-M-Deportes.png",
+                    "url": "acestream://c04f1daf665ca4b6a8d1f6d552b2bffff1c839d3",
                     "info": ""
                 },
                 {
@@ -600,9 +504,9 @@
                     "info": ""
                 },
                 {
-                    "name": "M+ VAMOS 3 720p **",
-                    "image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
-                    "url": "acestream://042acc23562903fa562caa5c632ca9af9b462862",
+                    "name": "M+ VAMOS 3 1080p *",
+                    "image": "https://i.postimg.cc/rmxMT8Rg/Logo-M-Deportes.png",
+                    "url": "acestream://fe4f07ac796b8c2dfcf462f73ce2c76b011e552a",
                     "info": ""
                 }
             ]
@@ -611,18 +515,6 @@
             "name": "RFEF TV",
             "image": "https://i.postimg.cc/L8TQBms5/logo4-4-194132.png",
             "stations": [
-                {
-                    "name": "RFEF TV 1080p *",
-                    "image": "https://i.postimg.cc/L8TQBms5/logo4-4-194132.png",
-                    "url": "acestream://2ffc32c0b0d343479df339abca92908bc33c0a09",
-                    "info": ""
-                },
-                {
-                    "name": "RFEF TV 1080p *",
-                    "image": "https://i.postimg.cc/L8TQBms5/logo4-4-194132.png",
-                    "url": "acestream://bf95e600e8f546948eb4f170079533b2a38954ac",
-                    "info": ""
-                },
                 {
                     "name": "RFEF TV 1080p **",
                     "image": "https://i.postimg.cc/L8TQBms5/logo4-4-194132.png",
@@ -642,27 +534,9 @@
                     "info": ""
                 },
                 {
-                    "name": "La 1 TVE 720p *",
-                    "image": "https://i.postimg.cc/NfQ1LMZP/logo-spain.png",
-                    "url": "acestream://607f7b787f71fcf95a28797f3894c749b34b6446",
-                    "info": ""
-                },
-                {
-                    "name": "La 1 TVE 1080p **",
-                    "image": "https://i.ibb.co/swhGnw4/La1.jpg",
-                    "url": "acestream://7d48c95f887b612c403b402ee12d271c8e4daf61",
-                    "info": ""
-                },
-                {
                     "name": "La 1 TVE 1080p **",
                     "image": "https://i.ibb.co/swhGnw4/La1.jpg",
                     "url": "acestream://63f58d5591124574898aee8c78758195714f6490",
-                    "info": ""
-                },
-                {
-                    "name": "La 1 TVE 4K *",
-                    "image": "https://i.ibb.co/swhGnw4/La1.jpg",
-                    "url": "acestream://d12801b4106313b1ca79bd9b4182a12f949fc7b9",
                     "info": ""
                 },
                 {
@@ -672,27 +546,9 @@
                     "info": ""
                 },
                 {
-                    "name": "La 2 TVE 1080p *",
-                    "image": "https://i.ibb.co/swhGnw4/La1.jpg",
-                    "url": "acestream://d0d58c42b15fbcb1241aa2806531c8a092430cb1",
-                    "info": ""
-                },
-                {
-                    "name": "La 2 TVE 1080p **",
-                    "image": "https://i.ibb.co/swhGnw4/La1.jpg",
-                    "url": "acestream://36a3ec381718b97e03aeb5512ee51c646ad5f7ce",
-                    "info": ""
-                },
-                {
                     "name": "M+ 0 1080p **",
                     "image": "https://i.postimg.cc/NfQ1LMZP/logo-spain.png",
                     "url": "acestream://f10b032953cfa1da70dc5d6edf23a83ba5904ba8",
-                    "info": ""
-                },
-                {
-                    "name": "Telecinco 1080p **",
-                    "image": "https://www.movistarplus.es/recorte/m-NEO/canal/T5.png",
-                    "url": "acestream://42d47a6acf224edeef29f89409ecc5e4cc1f52b1",
                     "info": ""
                 }
             ]
@@ -702,27 +558,9 @@
             "image": "https://i.postimg.cc/BnGM4SQC/logo10-31-14448.png",
             "stations": [
                 {
-                    "name": "A Punt 1080p *",
-                    "image": "https://i.postimg.cc/BnGM4SQC/logo10-31-14448.png",
-                    "url": "acestream://ad7a52a05039e95e73a334e9d4518832ff84f448",
-                    "info": ""
-                },
-                {
-                    "name": "A Punt 1080p *",
-                    "image": "https://i.postimg.cc/BnGM4SQC/logo10-31-14448.png",
-                    "url": "acestream://5f09f7cae7b7d3fb9b7e492dbab3edfe1e70067c",
-                    "info": ""
-                },
-                {
                     "name": "A Punt 1080p **",
                     "image": "https://i.postimg.cc/BnGM4SQC/logo10-31-14448.png",
                     "url": "acestream://1e0e3067189ce19b341b9e809df2e059a5c6a85e",
-                    "info": ""
-                },
-                {
-                    "name": "A Punt 1080p **",
-                    "image": "https://i.postimg.cc/BnGM4SQC/logo10-31-14448.png",
-                    "url": "acestream://fb0f6e32e15857a821240abbed6da0379bed40dc",
                     "info": ""
                 },
                 {
@@ -732,33 +570,15 @@
                     "info": ""
                 },
                 {
-                    "name": "Esport3 720p *",
-                    "image": "https://i.postimg.cc/BnGM4SQC/logo10-31-14448.png",
-                    "url": "acestream://57d0406964dc5e0b69cc457ae5b8957fe69c2a53",
-                    "info": ""
-                },
-                {
                     "name": "Esport3 720p **",
                     "image": "https://i.postimg.cc/BnGM4SQC/logo10-31-14448.png",
                     "url": "acestream://8392984997d6ce361bca121ca1631cdd04040ae7",
                     "info": ""
                 },
                 {
-                    "name": "Esport3 1080p *",
-                    "image": "https://i.postimg.cc/BnGM4SQC/logo10-31-14448.png",
-                    "url": "acestream://eb0a08dfb47f01b0d8a8f13ab11a1c062d9eebfb",
-                    "info": ""
-                },
-                {
                     "name": "Esport3 1080p **",
                     "image": "https://i.postimg.cc/BnGM4SQC/logo10-31-14448.png",
                     "url": "acestream://20a6f764b55a1cbe34f62d732561b4a09ff50829",
-                    "info": ""
-                },
-                {
-                    "name": "RALLY TV 1080p *",
-                    "image": "https://i.postimg.cc/BnGM4SQC/logo10-31-14448.png",
-                    "url": "acestream://d5d0f01e4b673ea57252c9698c869a96c1b31c25",
                     "info": ""
                 },
                 {
@@ -786,15 +606,9 @@
                     "info": ""
                 },
                 {
-                    "name": "SPORT TV3 1080p **",
-                    "image": "https://i.postimg.cc/QxBhsxCR/Logo-Sport-Tv.png",
-                    "url": "acestream://b98b2fa1291b9ed9d6eaa36b85699ec9087f6a4a",
-                    "info": ""
-                },
-                {
-                    "name": "Sport TV+ 1080p *",
+                    "name": "SPORT TV3 1080p *",
                     "image": "https://i.postimg.cc/BnGM4SQC/logo10-31-14448.png",
-                    "url": "acestream://d04d68af86e33ddc4a5d83a6dffd14a473b30a6c",
+                    "url": "acestream://40820f30c5072f7cc9f0e4b42eecc460fbdd8e4b",
                     "info": ""
                 },
                 {
@@ -804,21 +618,15 @@
                     "info": ""
                 },
                 {
+                    "name": "Sport TV+ 1080p *",
+                    "image": "https://i.postimg.cc/BnGM4SQC/logo10-31-14448.png",
+                    "url": "acestream://d04d68af86e33ddc4a5d83a6dffd14a473b30a6c",
+                    "info": ""
+                },
+                {
                     "name": "Teledeporte 720p **",
                     "image": "https://i.ibb.co/thh1tKH/TDP.jpg",
                     "url": "acestream://d889729516a30bb2ac9e0355a1fbda0d10281e9a",
-                    "info": ""
-                },
-                {
-                    "name": "Teledeporte 1080p *",
-                    "image": "https://i.ibb.co/thh1tKH/TDP.jpg",
-                    "url": "acestream://1d9e4ec1c78ae31da88a5f8582eb95d29d329d8d",
-                    "info": ""
-                },
-                {
-                    "name": "Teledeporte 1080p **",
-                    "image": "https://i.ibb.co/thh1tKH/TDP.jpg",
-                    "url": "acestream://1a4360fe8dd0d2467cca45c6bc13ff43ca21ac55",
                     "info": ""
                 }
             ]
@@ -828,15 +636,15 @@
             "image": "https://i.postimg.cc/ZKTPyNjD/logo2-28-91831.png",
             "stations": [
                 {
-                    "name": "Dazn MotoGP 720p **",
+                    "name": "Dazn MotoGP 720p *",
                     "image": "https://i.postimg.cc/ZKTPyNjD/logo2-28-91831.png",
-                    "url": "acestream://962c7fe92b214b0962459bec921a5cdcc28bcfe3",
+                    "url": "acestream://211d0d9729f10cc76159268990ae1562d235ef1d",
                     "info": ""
                 },
                 {
-                    "name": "Dazn MotoGP 1080p *",
+                    "name": "Dazn MotoGP 720p **",
                     "image": "https://i.postimg.cc/ZKTPyNjD/logo2-28-91831.png",
-                    "url": "acestream://4c5edd25e0b77512172aa1b06c55773ff0d8ceb1",
+                    "url": "acestream://962c7fe92b214b0962459bec921a5cdcc28bcfe3",
                     "info": ""
                 },
                 {
@@ -846,15 +654,15 @@
                     "info": ""
                 },
                 {
-                    "name": "Dazn MotoGP 1080p **",
+                    "name": "Dazn MotoGP 1080p *",
                     "image": "https://i.postimg.cc/ZKTPyNjD/logo2-28-91831.png",
-                    "url": "acestream://36e61c0f5bf9c83ef3bfe9777e3d2f7d9e8e62df",
+                    "url": "acestream://4c5edd25e0b77512172aa1b06c55773ff0d8ceb1",
                     "info": ""
                 },
                 {
                     "name": "Dazn MotoGP 1080p **",
                     "image": "https://i.postimg.cc/ZKTPyNjD/logo2-28-91831.png",
-                    "url": "acestream://3104d58909f284e949844fb6a39e0baf1a6fc3e4",
+                    "url": "acestream://36e61c0f5bf9c83ef3bfe9777e3d2f7d9e8e62df",
                     "info": ""
                 },
                 {
@@ -868,12 +676,6 @@
                     "image": "https://i.postimg.cc/ZKTPyNjD/logo2-28-91831.png",
                     "url": "acestream://b039fe64df14989da0a70bcb5b65c18376936ee4",
                     "info": ""
-                },
-                {
-                    "name": "Sky Sport MotoGP 1080p **",
-                    "image": "https://i.postimg.cc/ZKTPyNjD/logo2-28-91831.png",
-                    "url": "acestream://c349a1a8953a4f64c61a6614aec63e11dc7eff96",
-                    "info": ""
                 }
             ]
         },
@@ -881,12 +683,6 @@
             "name": "NBA",
             "image": "https://i.postimg.cc/SKjPkzTN/Logo-NBA.png",
             "stations": [
-                {
-                    "name": "NBA League Pass 1080p *",
-                    "image": "https://i.postimg.cc/SKjPkzTN/Logo-NBA.png",
-                    "url": "acestream://594d954ecc68f601040630de6671cd648e0964f6",
-                    "info": ""
-                },
                 {
                     "name": "NBA League Pass 1080p *",
                     "image": "https://i.postimg.cc/SKjPkzTN/Logo-NBA.png",
@@ -910,36 +706,6 @@
                     "image": "https://i.postimg.cc/k4sFB1S7/tennis-channel-new.png",
                     "url": "acestream://c7e20411cecda0cafad50aef6d91822ebc8b9f10",
                     "info": ""
-                },
-                {
-                    "name": "Sky Sport Tennis 1080p **",
-                    "image": "https://i.postimg.cc/k4sFB1S7/tennis-channel-new.png",
-                    "url": "acestream://a0adfe52f8a9275067d559debe17523c655975e5",
-                    "info": ""
-                },
-                {
-                    "name": "Tennis Channel 1080p *",
-                    "image": "https://i.postimg.cc/k4sFB1S7/tennis-channel-new.png",
-                    "url": "acestream://f96f1d150f2005c5040c2c08a31d8d2483c96ebc",
-                    "info": ""
-                },
-                {
-                    "name": "Tennis Channel 1080p **",
-                    "image": "https://i.postimg.cc/k4sFB1S7/tennis-channel-new.png",
-                    "url": "acestream://1e6f2808b5604164736b8cf597744e8ddd4c4faf",
-                    "info": ""
-                }
-            ]
-        },
-        {
-            "name": "TOROS",
-            "image": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png",
-            "stations": [
-                {
-                    "name": "Onetoro TV 1080p *",
-                    "image": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png",
-                    "url": "acestream://4077be033f5adcd1786ea37aeae7ad77b4697f7f",
-                    "info": ""
                 }
             ]
         },
@@ -947,30 +713,6 @@
             "name": "UFC",
             "image": "https://i.postimg.cc/Hk6VCHsX/Fight-Sports-new.png",
             "stations": [
-                {
-                    "name": "UFC *",
-                    "image": "https://i.postimg.cc/Hk6VCHsX/Fight-Sports-new.png",
-                    "url": "acestream://5b845a7b10177aaca45f36eac5ef9c46b7b35537",
-                    "info": ""
-                },
-                {
-                    "name": "UFC *",
-                    "image": "https://i.postimg.cc/Hk6VCHsX/Fight-Sports-new.png",
-                    "url": "acestream://b2d795e711ec6960bbc3c1f7e82c893db9fee09a",
-                    "info": ""
-                },
-                {
-                    "name": "UFC *",
-                    "image": "https://i.postimg.cc/Hk6VCHsX/Fight-Sports-new.png",
-                    "url": "acestream://b6b1e18fd680e0525bbbb46a4eeab2da41d7a967",
-                    "info": ""
-                },
-                {
-                    "name": "UFC *",
-                    "image": "https://i.postimg.cc/Hk6VCHsX/Fight-Sports-new.png",
-                    "url": "acestream://62a1dc7f52ad0e6fd520be0cc27ede436ecbc41c",
-                    "info": ""
-                },
                 {
                     "name": "UFC **",
                     "image": "https://i.postimg.cc/Hk6VCHsX/Fight-Sports-new.png",
